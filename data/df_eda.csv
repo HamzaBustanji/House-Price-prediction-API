@@ -1,0 +1,1460 @@
+SalePrice,Neighborhood,YearBuilt,Garage,Fireplace,Condition,HouseStyle,BuildingType,HalfBath,FullBath,Bedrooms,HouseArea,LotArea
+208500,CollgCr,2003,1.0,0.0,Average,Two story,Single-family,1,2,3,3114,8450
+181500,Veenker,1976,1.0,1.0,Average,One story,Single-family,0,2,3,2984,9600
+223500,CollgCr,2001,1.0,1.0,Average,Two story,Single-family,1,2,3,3314,11250
+140000,Crawfor,1915,1.0,1.0,Average,Two story,Single-family,0,1,3,3115,9550
+250000,NoRidge,2000,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4179,14260
+143000,Mitchel,1993,1.0,0.0,Average,One and a half story,Single-family,1,1,1,2638,14115
+307000,Somerst,2004,1.0,1.0,Above Average,One story,Single-family,0,2,3,4016,10084
+200000,NWAmes,1973,1.0,1.0,Average,Two story,Single-family,1,2,3,3681,10382
+129900,OldTown,1931,1.0,1.0,Average,One and a half story,Single-family,0,2,2,3194,6120
+118000,BrkSide,1939,1.0,1.0,Average,One and a half story,Two-family,0,1,2,2273,7420
+129500,Sawyer,1965,1.0,0.0,Average,One story,Single-family,0,1,3,2464,11200
+345000,NridgHt,2005,1.0,1.0,Above Average,Two story,Single-family,0,3,4,4235,11924
+144000,Sawyer,1962,1.0,0.0,Average,One story,Single-family,0,1,2,2176,12968
+279500,CollgCr,2006,1.0,1.0,Average,One story,Single-family,0,2,3,3828,10652
+157000,NAmes,1960,1.0,1.0,Average,One story,Single-family,1,1,2,2858,10920
+132000,BrkSide,1929,1.0,0.0,Average,One and a half story,Single-family,0,1,2,2262,6120
+149000,NAmes,1970,1.0,1.0,Average,One story,Single-family,0,1,2,2488,11241
+90000,Sawyer,1967,1.0,0.0,Below Average,One story,Duplex,0,2,2,1812,10791
+159000,SawyerW,2004,1.0,0.0,Average,One story,Single-family,1,1,3,2804,13695
+139000,NAmes,1958,1.0,0.0,Average,One story,Single-family,0,1,3,2662,7560
+325300,NridgHt,2005,1.0,1.0,Above Average,Two story,Single-family,1,3,4,4387,14215
+139400,IDOTRR,1930,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2025,7449
+230000,CollgCr,2002,1.0,1.0,Above Average,One story,Single-family,0,2,3,4106,9742
+129900,MeadowV,1976,1.0,1.0,Average,One story,Townhouse,0,1,3,2672,4224
+154000,Sawyer,1968,1.0,1.0,Average,One story,Single-family,0,1,3,2390,8246
+256300,NridgHt,2007,1.0,1.0,Above Average,One story,Single-family,0,2,3,4056,14230
+134800,NAmes,1951,1.0,0.0,Average,One story,Single-family,0,1,3,2376,7200
+306000,NridgHt,2007,1.0,1.0,Above Average,One story,Single-family,0,2,3,4180,11478
+207500,NAmes,1957,1.0,1.0,Average,One story,Single-family,0,1,2,3403,16321
+68500,BrkSide,1927,1.0,0.0,Below Average,One story,Single-family,0,1,1,1280,6324
+40000,IDOTRR,1920,1.0,0.0,Below Average,Two story,Single-family,0,1,3,2216,8500
+149350,Sawyer,1966,1.0,0.0,Average,One story,Single-family,1,1,3,2727,8544
+179900,CollgCr,2007,1.0,0.0,Above Average,One story,Single-family,0,2,3,2952,11049
+165500,NAmes,1959,1.0,1.0,Average,One story,Single-family,1,1,4,3545,10552
+277500,NridgHt,2005,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3678,7313
+309000,NridgHt,2004,1.0,1.0,Above Average,Two story,Single-family,1,3,4,4260,13418
+145000,CollgCr,1994,1.0,0.0,Average,One story,Single-family,1,1,3,2866,10859
+153000,NAmes,1954,1.0,1.0,Average,One story,Single-family,0,1,3,3092,8532
+109000,NAmes,1953,1.0,0.0,Average,One story,Single-family,0,1,3,2360,7922
+82000,Edwards,1955,0.0,0.0,Below Average,One story,Duplex,0,2,2,1152,6040
+160000,NAmes,1965,1.0,1.0,Average,One story,Single-family,0,2,3,2852,8658
+170000,Timber,1959,1.0,1.0,Average,One story,Single-family,1,1,2,2986,16905
+144000,SawyerW,1983,1.0,0.0,Average,Split Foyer,Single-family,0,1,2,2228,9180
+130250,CollgCr,1975,1.0,0.0,Average,One story,Single-family,0,1,3,2184,9200
+141000,NAmes,1959,1.0,0.0,Average,One story,Single-family,0,1,3,2600,7945
+319900,NridgHt,2005,1.0,1.0,Above Average,One story,Townhouse,0,2,2,4080,7658
+239686,Mitchel,2003,1.0,1.0,Average,One and a half story,Single-family,1,1,1,4253,12822
+249700,Somerst,2006,1.0,0.0,Above Average,One story,Single-family,0,2,3,4138,11096
+113000,OldTown,1920,0.0,0.0,Below Average,Two story,Two-family,0,2,2,2188,4456
+127000,Sawyer,1966,1.0,0.0,Average,One story,Single-family,0,1,3,2296,7742
+177000,Gilbert,1997,1.0,0.0,Average,Two story,Single-family,0,2,3,2652,13869
+114500,BrkSide,1934,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2160,6240
+110000,IDOTRR,1963,1.0,0.0,Average,One story,Duplex,0,1,2,2148,8472
+385000,Veenker,1981,1.0,1.0,Above Average,One story,Single-family,1,0,0,4578,50271
+130000,NAmes,1955,1.0,1.0,Average,Split Level,Single-family,0,1,3,2316,7134
+180500,NAmes,1964,1.0,1.0,Average,One story,Single-family,0,2,3,3426,10175
+172500,Somerst,1999,1.0,0.0,Above Average,Two story,Townhouse,1,2,3,3189,2645
+196500,CollgCr,2004,1.0,0.0,Average,Two story,Single-family,1,2,3,3145,11645
+438780,StoneBr,2006,1.0,1.0,Above Average,Two story,Single-family,1,3,3,4996,13682
+124900,CollgCr,1972,1.0,0.0,Average,One story,Single-family,0,1,2,1912,7200
+158000,SawyerW,2004,1.0,0.0,Average,One story,Single-family,1,1,3,2892,13072
+101000,IDOTRR,1920,1.0,0.0,Average,Two and a half story,Single-family,0,1,3,1929,7200
+202500,NridgHt,2006,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3224,6442
+140000,OldTown,1921,1.0,0.0,Average,Two story,Single-family,0,2,3,2766,10300
+219500,CollgCr,1997,1.0,0.0,Average,Two story,Single-family,1,2,3,3736,9375
+317000,NridgHt,2004,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4468,9591
+180000,NAmes,1970,1.0,1.0,Average,One story,Single-family,0,2,3,4730,19900
+226000,CollgCr,2003,1.0,0.0,Average,One story,Single-family,0,2,3,3490,10665
+80000,OldTown,1945,1.0,0.0,Below Average,One story,Single-family,0,1,2,1714,4608
+225000,ClearCr,1953,1.0,1.0,Average,One and a half story,Single-family,0,2,3,4258,15593
+244000,NAmes,1973,1.0,1.0,Average,One story,Single-family,0,2,3,4962,13651
+129500,Mitchel,1982,1.0,0.0,Below Average,One story,Single-family,0,1,2,2050,7599
+185000,Gilbert,1998,1.0,1.0,Average,Two story,Single-family,1,2,3,2977,10141
+144900,NAmes,1954,1.0,0.0,Average,One story,Single-family,0,1,3,2662,10200
+107400,OldTown,1915,1.0,0.0,Below Average,Two story,Single-family,0,2,3,2824,5790
+91000,MeadowV,1973,1.0,0.0,Below Average,Split Level,Townhouse,0,1,2,1747,1596
+135750,NAmes,1956,1.0,0.0,Below Average,One story,Single-family,0,1,2,2187,8475
+127000,BrkSide,1948,1.0,0.0,Average,One and a half story,Single-family,0,1,2,2197,8635
+136500,Sawyer,1968,0.0,0.0,Below Average,One story,Duplex,0,2,4,3536,10778
+110000,OldTown,1910,1.0,0.0,Average,Two story,Single-family,1,1,2,2110,10440
+193500,NAmes,1968,1.0,1.0,Average,Two story,Single-family,1,2,4,3547,13000
+153500,Mitchel,1998,1.0,0.0,Average,One story,Townhouse,0,2,2,2979,4500
+245000,Somerst,2007,1.0,1.0,Above Average,One story,Single-family,0,2,3,3884,10206
+126500,NAmes,1960,1.0,0.0,Average,One story,Single-family,1,1,3,2591,8892
+168500,Gilbert,1995,1.0,1.0,Average,Split Level,Single-family,1,2,3,2258,8530
+260000,NoRidge,1991,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4167,16059
+174000,Gilbert,2005,1.0,1.0,Average,Two story,Single-family,1,2,3,2644,11911
+164500,Somerst,2009,1.0,0.0,Average,Two story,Townhouse,1,2,2,2364,3951
+85000,IDOTRR,1915,0.0,0.0,Below Average,One and a half story,Single-family,0,1,2,2026,8470
+123600,CollgCr,1994,0.0,0.0,Below Average,One story,Single-family,0,1,3,1980,8070
+109900,NAmes,1950,1.0,0.0,Below Average,One story,Single-family,0,1,2,1460,7200
+98600,NAmes,1961,1.0,0.0,Average,One story,Single-family,0,1,2,2950,8500
+163500,Crawfor,1921,1.0,0.0,Average,One story,Single-family,0,1,2,2272,13360
+133900,OldTown,1910,1.0,1.0,Average,Two and a half story,Two-family,0,2,4,4011,7200
+204750,CollgCr,1997,1.0,0.0,Average,Two story,Single-family,1,2,3,3294,9337
+185000,Gilbert,1993,1.0,1.0,Average,Two story,Single-family,1,2,3,2570,9765
+214000,CollgCr,1999,1.0,0.0,Average,One story,Single-family,0,2,3,3648,10264
+94750,Edwards,1965,1.0,0.0,Below Average,One story,Single-family,0,1,3,2352,10921
+83000,Edwards,1920,1.0,0.0,Average,One story,Single-family,0,1,2,1659,10625
+128950,NAmes,1959,0.0,0.0,Below Average,One story,Single-family,1,1,3,2175,9320
+205000,NWAmes,1977,1.0,1.0,Average,One story,Single-family,0,2,3,3700,10603
+178000,SawyerW,1985,1.0,1.0,Average,Two story,Single-family,1,2,3,2949,9206
+118964,SawyerW,1979,1.0,0.0,Average,One story,Duplex,0,2,4,1945,7018
+198900,CollgCr,2009,1.0,0.0,Average,One story,Single-family,0,2,3,3192,10402
+169500,IDOTRR,1931,1.0,1.0,Average,One and a half story,Single-family,1,1,4,3098,7758
+250000,Somerst,2003,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3693,9375
+100000,OldTown,1885,1.0,0.0,Below Average,One story,Single-family,0,1,2,1961,10800
+115000,OldTown,1948,1.0,0.0,Average,One story,Single-family,0,1,2,1828,6000
+115000,IDOTRR,1919,0.0,0.0,Average,One and a half story,Single-family,0,2,3,2310,8500
+190000,NWAmes,1977,1.0,1.0,Average,One story,Single-family,0,2,3,4234,11751
+136900,Edwards,1954,1.0,0.0,Average,One and a half story,Single-family,0,2,4,3174,9525
+180000,Gilbert,2000,1.0,1.0,Average,Split Level,Single-family,1,2,3,2214,7750
+383970,CollgCr,2007,1.0,1.0,Average,Two story,Single-family,1,2,4,4752,9965
+217000,Crawfor,1953,1.0,1.0,Average,One story,Single-family,0,2,3,4518,21000
+259500,Crawfor,1945,1.0,1.0,Average,Two story,Single-family,1,2,3,3528,7259
+176000,Somerst,1999,1.0,1.0,Average,Two story,Townhouse,1,2,2,2627,3230
+139000,Sawyer,1962,1.0,1.0,Average,One story,Single-family,0,1,3,2472,11616
+155000,Edwards,2006,1.0,0.0,Average,One story,Single-family,1,1,2,2680,8536
+320000,SawyerW,1990,1.0,1.0,Average,Two story,Single-family,0,3,5,5489,12376
+163990,CollgCr,2005,1.0,1.0,Average,Two story,Single-family,1,2,3,2574,8461
+180000,ClearCr,1969,1.0,1.0,Average,Split Level,Single-family,0,1,1,2466,21453
+100000,IDOTRR,1939,1.0,0.0,Below Average,One and a half story,Single-family,0,1,3,2119,6060
+136000,NAmes,1958,1.0,0.0,Average,One story,Single-family,0,1,3,2448,9464
+153900,SawyerW,1993,1.0,0.0,Average,One story,Townhouse,0,2,2,2928,7892
+181000,NWAmes,1979,1.0,1.0,Average,One story,Single-family,0,2,3,3383,17043
+84500,IDOTRR,1935,0.0,0.0,Average,One and a half story,Two-family,0,1,2,1040,6780
+128000,NPkVill,1976,1.0,1.0,Average,One story,Townhouse,0,2,2,2476,4928
+87000,OldTown,1930,0.0,1.0,Average,One and a half story,Single-family,0,1,3,1512,4388
+155000,NAmes,1966,1.0,1.0,Average,Two story,Single-family,1,1,3,2461,7590
+150000,NAmes,1958,1.0,0.0,Average,One story,Single-family,1,1,3,2811,8973
+226000,NAmes,1966,1.0,1.0,Average,Two story,Single-family,1,2,4,3568,14200
+244000,Gilbert,2000,1.0,1.0,Average,Two story,Single-family,1,2,3,3436,12224
+150750,NAmes,1959,1.0,0.0,Average,One story,Single-family,0,1,3,3014,7388
+220000,Timber,2001,1.0,0.0,Above Average,One story,Single-family,0,2,2,3034,6853
+180000,Sawyer,1968,1.0,1.0,Average,One story,Single-family,1,2,3,3622,10335
+174000,NWAmes,1970,1.0,1.0,Average,One story,Single-family,0,2,3,3516,10400
+143000,NAmes,1967,1.0,1.0,Average,One story,Single-family,0,2,3,2746,10355
+171000,Mitchel,1988,1.0,0.0,Average,One story,Duplex,0,3,5,4632,11070
+230000,CollgCr,1999,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3516,9066
+231500,CollgCr,1997,1.0,0.0,Average,Two story,Single-family,1,2,3,3162,15426
+115000,NAmes,1971,0.0,1.0,Below Average,One story,Single-family,0,1,3,1728,10500
+260000,CollgCr,2005,1.0,0.0,Average,One story,Single-family,0,2,3,4128,11645
+166000,NAmes,1952,1.0,0.0,Average,One and a half story,Single-family,0,2,4,3015,8520
+204000,CollgCr,1999,1.0,0.0,Average,One story,Single-family,0,2,3,3568,10335
+125000,Sawyer,1963,1.0,0.0,Average,One story,Duplex,0,2,6,3960,9100
+130000,Edwards,2004,1.0,0.0,Average,Two story,Townhouse,0,2,3,3059,2522
+105000,BrkSide,1931,1.0,0.0,Average,One story,Single-family,0,1,2,1770,6120
+222500,Gilbert,2001,1.0,1.0,Average,Two story,Single-family,1,2,3,3353,9505
+141000,SawyerW,2004,0.0,0.0,Average,One story,Single-family,0,1,3,2160,7500
+115000,BrkSide,1936,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2480,6240
+122000,CollgCr,1975,1.0,0.0,Average,One story,Single-family,1,1,3,2378,10356
+372402,NridgHt,2007,1.0,1.0,Above Average,One story,Single-family,0,2,2,4286,13891
+190000,NWAmes,1971,1.0,1.0,Average,Two story,Single-family,1,2,4,3313,14803
+235000,ClearCr,1960,1.0,1.0,Average,One story,Single-family,0,1,1,3418,13500
+125000,OldTown,1923,1.0,0.0,Average,One story,Single-family,0,1,4,2712,11340
+79000,Edwards,1924,0.0,0.0,Average,One and a half story,Single-family,0,1,2,1668,9600
+109500,NAmes,1950,1.0,0.0,Average,One story,Single-family,0,1,2,1665,7200
+269500,Timber,2009,1.0,1.0,Above Average,Two story,Single-family,1,2,4,3422,12003
+254900,Somerst,2004,1.0,1.0,Average,Two story,Single-family,1,2,3,3616,12552
+320000,Gilbert,2005,1.0,1.0,Average,Two story,Single-family,1,2,4,4430,19378
+162500,Veenker,1984,1.0,0.0,Average,One story,Single-family,0,2,3,2980,11120
+412500,NridgHt,2003,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4966,13688
+220000,NridgHt,2005,1.0,1.0,Average,One story,Single-family,0,2,3,3614,12182
+103200,OldTown,1956,0.0,0.0,Below Average,One and a half story,Single-family,0,1,1,1764,5500
+152000,OldTown,1926,1.0,0.0,Average,One story,Single-family,0,2,3,2981,5400
+127500,Edwards,1940,0.0,0.0,Average,One and a half story,Two-family,0,2,4,1999,10106
+190000,ClearCr,1955,1.0,1.0,Average,One story,Single-family,0,1,2,3787,10708
+325624,NridgHt,2007,1.0,1.0,Above Average,Two story,Single-family,1,1,3,4532,10562
+183500,Gilbert,2004,1.0,1.0,Average,Two story,Single-family,1,2,3,3000,8244
+228000,Timber,1981,1.0,1.0,Above Average,One story,Single-family,1,2,2,3904,16669
+128500,OldTown,1941,1.0,0.0,Average,One and a half story,Single-family,1,1,2,2234,12358
+215000,NAmes,1960,1.0,1.0,Average,One story,Single-family,0,1,3,3264,31770
+239000,StoneBr,1987,1.0,1.0,Average,Two story,Townhouse,0,2,2,3335,5306
+163000,NAmes,1961,1.0,1.0,Average,One story,Single-family,1,1,3,3228,10197
+184000,Timber,1986,1.0,1.0,Average,One story,Single-family,0,2,3,3873,12416
+243000,Edwards,1950,1.0,1.0,Average,One story,Single-family,0,2,4,3936,12615
+211000,ClearCr,1988,1.0,1.0,Average,Two story,Single-family,1,2,4,3732,10029
+172500,Sawyer,1958,1.0,1.0,Average,One and a half story,Single-family,0,2,4,3423,13650
+501837,StoneBr,2008,1.0,1.0,Above Average,One story,Single-family,0,2,1,5616,17423
+100000,OldTown,1923,1.0,0.0,Average,One story,Single-family,0,1,2,2416,8520
+177000,Somerst,2000,1.0,1.0,Average,Two story,Townhouse,1,2,3,2721,2117
+200100,Crawfor,1920,1.0,1.0,Average,Two story,Single-family,1,1,4,2811,7588
+120000,Edwards,1957,1.0,1.0,Average,One story,Single-family,0,1,3,1592,9060
+200000,OldTown,2003,1.0,0.0,Average,One and a half story,Single-family,1,2,3,3928,11426
+127000,BrkSide,1908,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2332,7438
+475000,OldTown,1892,1.0,1.0,Above Average,Two and a half story,Single-family,1,2,4,4983,22950
+173000,Mitchel,1990,1.0,0.0,Average,Split Level,Single-family,0,2,3,2902,9947
+135000,OldTown,1916,1.0,0.0,Average,One and a half story,Single-family,1,2,3,2352,10410
+153337,SawyerW,1979,1.0,1.0,Average,Split Foyer,Duplex,2,0,2,2838,7018
+286000,StoneBr,2001,1.0,1.0,Above Average,One story,Townhouse,1,1,0,3868,4923
+315000,Crawfor,1932,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4020,10570
+184000,NAmes,1972,1.0,0.0,Average,Two story,Single-family,1,1,4,2688,7472
+192000,CollgCr,1999,1.0,0.0,Average,One story,Single-family,0,2,3,3528,9017
+130000,Edwards,2004,1.0,0.0,Average,Two story,Townhouse,0,2,3,3059,2522
+127000,CollgCr,1972,1.0,0.0,Average,One story,Single-family,0,1,3,2080,7180
+148500,NPkVill,1976,1.0,1.0,Average,Two story,Townhouse,1,2,3,2751,2280
+311872,Somerst,2007,1.0,1.0,Average,One story,Single-family,0,2,3,4238,9416
+235000,NAmes,1918,1.0,1.0,Above Average,Two story,Single-family,0,2,4,4875,25419
+104000,OldTown,1912,0.0,0.0,Average,Two and a half story,Single-family,0,1,5,2613,5520
+274900,NridgHt,2004,1.0,1.0,Above Average,One story,Single-family,0,2,3,4282,9591
+140000,Edwards,2003,1.0,0.0,Below Average,One story,Single-family,0,2,2,2682,8546
+171500,Mitchel,1977,1.0,1.0,Average,One story,Single-family,0,2,3,2948,10125
+112000,OldTown,1924,1.0,0.0,Average,One and a half story,Single-family,0,2,2,2325,7000
+149000,CollgCr,2004,1.0,1.0,Average,One story,Townhouse,0,1,1,2116,4438
+110000,OldTown,1947,1.0,0.0,Average,One and a half story,Single-family,1,1,2,2244,3500
+180500,Gilbert,1990,1.0,0.0,Average,One story,Single-family,0,2,3,3366,11851
+143900,Sawyer,1962,1.0,1.0,Average,One story,Single-family,1,1,3,3185,13673
+141000,NAmes,1960,1.0,1.0,Below Average,One story,Single-family,0,1,3,2512,12493
+277000,SawyerW,1988,1.0,1.0,Average,Two story,Single-family,1,2,3,3673,14364
+145000,NAmes,1964,1.0,0.0,Average,One story,Single-family,0,1,3,2688,8250
+98000,Edwards,1925,0.0,0.0,Average,One story,Single-family,0,1,2,1728,5604
+186000,Edwards,2009,1.0,0.0,Average,One story,Single-family,0,2,3,2884,10420
+252678,Somerst,2009,1.0,1.0,Average,Two story,Single-family,1,2,3,3396,8640
+156000,CollgCr,1995,1.0,0.0,Average,One story,Single-family,0,1,3,2556,13568
+161750,CollgCr,1977,1.0,0.0,Average,Two story,Single-family,1,1,3,2380,10900
+134450,NAmes,1957,1.0,1.0,Average,One story,Single-family,0,1,2,2753,10011
+210000,CollgCr,2004,1.0,0.0,Average,One story,Single-family,0,2,3,3356,8450
+107000,OldTown,1925,1.0,0.0,Below Average,Two story,Single-family,0,1,3,2224,9906
+311500,Crawfor,1939,1.0,1.0,Average,One and a half story,Single-family,1,1,3,3183,15660
+167240,Blmngtn,2005,1.0,0.0,Average,One story,Townhouse,0,2,2,2934,3010
+204900,CollgCr,2006,1.0,0.0,Average,One story,Single-family,0,2,2,3671,8990
+200000,Gilbert,2002,1.0,1.0,Average,Two story,Single-family,1,2,4,3667,8068
+179900,NWAmes,1975,1.0,1.0,Average,Two story,Single-family,1,2,3,2699,11475
+97000,NAmes,1971,1.0,0.0,Below Average,One story,Single-family,0,1,2,2304,10500
+386250,NridgHt,2003,1.0,1.0,Above Average,One story,Single-family,0,2,3,5752,13472
+112000,BrDale,1971,1.0,0.0,Average,Two story,Townhouse,1,2,3,2212,1680
+290000,NoRidge,1995,1.0,1.0,Average,Two story,Single-family,1,2,4,4444,9950
+106000,BrDale,1970,1.0,0.0,Average,Two story,Townhouse,1,1,2,1750,1869
+125000,Sawyer,1967,1.0,1.0,Average,One story,Single-family,0,1,3,2160,8521
+192500,Blmngtn,2005,1.0,1.0,Average,One story,Townhouse,0,2,2,3358,3182
+148000,NAmes,1959,1.0,0.0,Average,One story,Single-family,0,1,3,2700,8760
+403000,NoRidge,1995,1.0,1.0,Above Average,Two story,Single-family,1,2,4,5066,15138
+94500,BrDale,1972,1.0,1.0,Average,Two story,Townhouse,1,1,2,1758,1680
+128200,CollgCr,1976,1.0,0.0,Average,One story,Single-family,0,1,3,2096,10650
+216500,Gilbert,2002,1.0,1.0,Average,Two story,Single-family,1,2,4,3260,7851
+89500,BrDale,1971,1.0,0.0,Average,Two story,Townhouse,1,1,2,1734,1680
+185500,CollgCr,2004,1.0,0.0,Average,One story,Single-family,0,2,3,3322,8773
+194500,SawyerW,1993,1.0,0.0,Average,Two story,Single-family,1,2,3,3197,9453
+318000,NridgHt,2007,1.0,0.0,Above Average,One story,Single-family,0,2,3,4206,12030
+113000,Edwards,1945,1.0,1.0,Average,One and a half story,Single-family,1,1,3,2442,8741
+262500,Somerst,2008,1.0,0.0,Above Average,One story,Single-family,0,2,3,3882,9000
+110500,OldTown,1945,0.0,0.0,Average,One story,Single-family,0,1,2,1552,3880
+79000,OldTown,1900,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2332,5000
+120000,SawyerW,1980,1.0,1.0,Average,Two story,Townhouse,1,1,3,2131,10762
+205000,SawyerW,1994,1.0,1.0,Average,Two story,Single-family,1,2,3,3521,8880
+241500,NWAmes,1988,1.0,1.0,Average,One story,Single-family,0,2,3,4321,10400
+137000,OldTown,1910,1.0,0.0,Average,Two story,Two-family,0,2,4,3388,9142
+140000,NAmes,1954,1.0,1.0,Average,One story,Single-family,0,1,2,3193,11310
+180000,CollgCr,2003,1.0,0.0,Average,Two story,Single-family,1,2,3,3008,11317
+277000,ClearCr,1958,1.0,1.0,Average,One and a half story,Single-family,0,2,4,3977,159000
+76500,BrkSide,1940,0.0,0.0,Below Average,One story,Single-family,0,1,3,2034,5350
+235000,Crawfor,2006,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3736,4750
+173000,SawyerW,2004,1.0,0.0,Average,Two story,Single-family,1,2,3,2958,8366
+158000,NAmes,1964,1.0,0.0,Average,Split Level,Single-family,0,2,3,2913,9350
+145000,NAmes,1957,1.0,0.0,Average,One story,Single-family,0,1,3,2922,8400
+230000,Gilbert,1999,1.0,1.0,Average,Two story,Single-family,1,2,4,3695,8738
+207500,Somerst,2003,1.0,0.0,Average,Two story,Single-family,1,2,3,3265,8791
+220000,CollgCr,2006,1.0,1.0,Average,One story,Single-family,1,2,3,3868,8814
+231500,CollgCr,2001,1.0,1.0,Average,Two story,Single-family,1,2,3,3319,12435
+97000,OldTown,1956,1.0,0.0,Average,One story,Single-family,0,1,2,1190,12702
+176000,NAmes,1962,1.0,1.0,Average,Split Level,Single-family,0,1,3,3628,19296
+276000,CollgCr,2007,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4924,9588
+151000,Sawyer,1977,1.0,1.0,Average,Split Level,Single-family,0,1,3,2210,8471
+130000,OldTown,1929,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2336,5500
+73000,OldTown,1925,1.0,0.0,Average,One story,Single-family,0,1,2,1948,5232
+175500,NWAmes,1981,1.0,1.0,Average,One story,Single-family,0,2,3,3420,12090
+185000,Gilbert,1997,1.0,1.0,Average,Two story,Single-family,1,2,3,2726,11207
+179500,SWISU,1939,1.0,1.0,Average,Two and a half story,Single-family,1,2,4,2732,8400
+120500,IDOTRR,1940,1.0,1.0,Average,One story,Single-family,0,1,2,2442,6900
+148000,Edwards,1976,1.0,1.0,Average,One story,Single-family,1,1,3,2760,7917
+266000,Somerst,2006,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4087,10728
+241500,ClearCr,1954,1.0,1.0,Average,One story,Single-family,0,1,2,3187,39104
+290000,NoRidge,1999,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4093,11764
+139000,NAmes,1958,1.0,1.0,Average,One story,Single-family,0,2,3,3210,9600
+124500,Mitchel,1982,1.0,0.0,Average,One story,Single-family,0,1,2,1896,8314
+205000,BrkSide,1925,1.0,0.0,Average,One and a half story,Single-family,1,2,3,3172,7264
+201000,Mitchel,2003,1.0,0.0,Average,One story,Single-family,0,2,3,3693,9196
+141000,Gilbert,1951,1.0,0.0,Below Average,One story,Single-family,0,1,2,2128,19138
+415298,NridgHt,2006,1.0,1.0,Above Average,One story,Single-family,1,2,3,4974,14450
+192000,ClearCr,1977,1.0,1.0,Average,Two story,Single-family,1,2,4,3687,10005
+228500,SawyerW,1989,1.0,1.0,Average,Two story,Single-family,1,2,3,3364,11287
+185000,Somerst,2006,1.0,0.0,Average,One story,Single-family,0,2,2,3096,7200
+207500,NridgHt,2007,1.0,1.0,Average,One story,Townhouse,0,2,2,3254,5063
+244600,Somerst,2008,1.0,1.0,Above Average,One story,Single-family,0,2,3,3834,9612
+179200,SawyerW,1992,1.0,0.0,Average,One story,Townhouse,0,2,2,3679,8012
+164700,Somerst,2006,1.0,0.0,Average,Two story,Townhouse,1,2,2,2403,4251
+159000,NAmes,1962,1.0,1.0,Average,One and a half story,Single-family,1,1,3,3086,9786
+88000,NAmes,1971,0.0,0.0,Below Average,One story,Single-family,0,1,3,1716,8125
+122000,Sawyer,1967,1.0,0.0,Average,One story,Single-family,0,1,3,2062,9819
+153575,BrkSide,1915,1.0,0.0,Average,Two story,Single-family,0,1,3,2478,8730
+233230,CollgCr,2006,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3683,15611
+135900,SWISU,1912,0.0,0.0,Average,Two story,Two-family,0,2,6,2496,5687
+131000,Edwards,1949,1.0,1.0,Average,One and a half story,Single-family,1,1,3,2765,11409
+235000,NWAmes,1977,1.0,1.0,Average,Two story,Single-family,1,2,3,3597,16659
+167000,NAmes,1953,1.0,1.0,Average,One story,Single-family,0,1,3,3478,9600
+142500,Mitchel,1984,1.0,0.0,Average,Split Level,Single-family,0,1,3,2594,7937
+152000,IDOTRR,1950,1.0,0.0,Average,One and a half story,Single-family,1,1,4,2750,13710
+239000,Somerst,1997,1.0,1.0,Average,Two story,Single-family,1,2,3,3501,7399
+175000,NWAmes,1968,1.0,1.0,Average,Two story,Single-family,2,1,3,2984,11700
+158500,Crawfor,1950,1.0,1.0,Average,One story,Single-family,0,1,3,2544,14000
+157000,Crawfor,1953,1.0,1.0,Average,One story,Two-family,0,1,2,2876,15750
+267000,CollgCr,1998,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4163,16226
+205000,CollgCr,2001,1.0,1.0,Average,One story,Single-family,0,2,3,3925,13704
+149900,CollgCr,1972,1.0,0.0,Average,One story,Single-family,0,1,3,2340,9800
+295000,OldTown,1880,1.0,1.0,Average,Two and a half story,Single-family,0,3,3,5833,18386
+305900,CollgCr,2004,1.0,0.0,Above Average,One story,Single-family,0,2,3,4888,10386
+225000,SawyerW,1990,1.0,1.0,Average,Two story,Single-family,1,2,4,3689,13474
+89500,IDOTRR,1920,0.0,0.0,Average,One and a half story,Single-family,0,1,3,1725,7920
+82500,Edwards,1940,1.0,0.0,Below Average,One story,Single-family,0,1,1,2261,12342
+360000,NridgHt,2003,1.0,1.0,Above Average,One story,Single-family,0,2,3,4548,12378
+165600,Gilbert,1993,1.0,1.0,Average,Two story,Single-family,1,2,3,2618,7685
+132000,NAmes,1948,1.0,1.0,Average,One story,Single-family,0,1,2,2184,8000
+119900,OldTown,1939,1.0,1.0,Average,One and a half story,Two-family,0,1,3,2321,7800
+178000,OldTown,1925,1.0,1.0,Average,Two story,Single-family,1,1,3,2915,9600
+188500,Gilbert,2004,1.0,1.0,Average,Two story,Single-family,1,2,3,2580,7795
+260000,NWAmes,1980,1.0,1.0,Average,Two story,Single-family,1,2,4,3682,13005
+270000,Somerst,2006,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4072,9000
+260000,NoRidge,1993,1.0,1.0,Average,Two story,Single-family,1,2,4,4649,9900
+187500,NWAmes,1980,1.0,0.0,Average,Split Level,Single-family,0,2,3,3432,14115
+342643,NridgHt,2006,1.0,1.0,Above Average,Two story,Single-family,1,3,4,4685,16259
+354000,NridgHt,2004,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4476,12099
+301000,SawyerW,1986,1.0,0.0,Average,Two story,Single-family,1,2,4,4808,10380
+126175,OldTown,1955,1.0,1.0,Below Average,One story,Single-family,0,1,3,2545,5820
+242000,NAmes,1967,1.0,0.0,Average,Split Level,Single-family,1,2,5,4252,11275
+87000,IDOTRR,1941,1.0,1.0,Average,One and a half story,Single-family,0,1,2,1883,5000
+324000,Veenker,1993,1.0,0.0,Above Average,One story,Townhouse,1,1,1,3911,10846
+145250,NAmes,1960,1.0,0.0,Average,One story,Single-family,1,1,3,3058,11600
+214500,BrkSide,1916,1.0,0.0,Average,Two and a half story,Single-family,0,2,5,3419,11888
+78000,IDOTRR,1920,1.0,0.0,Average,Two story,Single-family,0,1,3,1977,6402
+119000,NAmes,1964,1.0,0.0,Average,One story,Duplex,0,2,6,3808,10624
+139000,NAmes,1958,1.0,1.0,Average,One story,Single-family,0,1,3,2420,8176
+284000,NridgHt,2003,1.0,1.0,Above Average,One story,Single-family,0,2,3,5715,10655
+207000,NridgHt,2004,1.0,1.0,Average,One story,Townhouse,0,2,2,3200,8198
+192000,Gilbert,1998,1.0,1.0,Average,Two story,Single-family,1,2,3,3053,9042
+228950,Timber,1965,1.0,1.0,Average,One and a half story,Two-family,0,2,3,3814,164660
+377426,StoneBr,2005,1.0,0.0,Above Average,One story,Single-family,0,2,3,4520,14157
+214000,CollgCr,2002,1.0,0.0,Average,One story,Single-family,0,2,3,3604,9135
+202500,NWAmes,1984,1.0,0.0,Average,One story,Single-family,0,2,3,3269,14145
+155000,NAmes,1958,1.0,0.0,Average,One story,Single-family,0,1,3,2727,12400
+202900,Timber,2002,1.0,0.0,Above Average,Two story,Single-family,1,2,4,3306,14191
+82000,SawyerW,1950,1.0,0.0,Below Average,One story,Single-family,0,1,2,1856,8400
+87500,NAmes,1949,1.0,1.0,Below Average,One story,Duplex,0,2,2,1440,8544
+266000,NridgHt,2005,1.0,0.0,Above Average,One story,Townhouse,0,2,2,3932,8849
+85000,MeadowV,1976,1.0,1.0,Average,Two story,Townhouse,1,1,3,1984,2592
+140200,BrkSide,1939,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2861,6435
+151500,NAmes,1960,1.0,1.0,Average,One story,Single-family,0,1,2,2217,12772
+157500,NAmes,1960,1.0,0.0,Average,One story,Single-family,0,2,3,3454,17600
+154000,NridgHt,2003,1.0,1.0,Average,Two story,Townhouse,1,2,2,2864,2448
+437154,NridgHt,2005,1.0,1.0,Above Average,Two story,Single-family,1,2,4,5282,20431
+318061,NridgHt,2007,1.0,1.0,Above Average,One story,Townhouse,0,2,2,4355,7820
+190000,ClearCr,1986,1.0,0.0,Average,One story,Single-family,1,1,2,3351,5271
+95000,Edwards,1941,1.0,0.0,Average,One and a half story,Single-family,0,1,3,1927,9084
+105900,OldTown,1928,1.0,1.0,Average,One story,Single-family,0,1,2,1828,8520
+140000,SWISU,1940,1.0,0.0,Average,One and a half story,Single-family,0,1,2,2775,8400
+177500,CollgCr,1995,1.0,0.0,Average,One story,Single-family,0,2,3,2921,11249
+173000,Gilbert,1992,1.0,1.0,Average,One story,Single-family,0,2,3,2725,9248
+134000,MeadowV,1976,1.0,0.0,Average,One story,Townhouse,1,1,3,2812,4224
+130000,ClearCr,1958,1.0,1.0,Average,Split Level,Single-family,0,1,3,2702,6930
+280000,NoRidge,1998,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3602,12011
+156000,Mitchel,1978,1.0,0.0,Average,Split Foyer,Single-family,0,1,2,2270,7540
+145000,BrkSide,1940,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2628,9144
+198500,Edwards,2003,1.0,0.0,Average,Split Foyer,Single-family,0,3,4,2594,7301
+118000,BrDale,1972,1.0,1.0,Average,Two story,Townhouse,1,1,2,1734,1680
+190000,NWAmes,1976,1.0,0.0,Average,Two story,Single-family,1,2,3,2936,18800
+147000,IDOTRR,1920,1.0,1.0,Average,Two story,Single-family,0,1,3,2484,10690
+159000,NAmes,1963,1.0,1.0,Average,One story,Single-family,1,1,3,3302,9500
+165000,NAmes,1962,1.0,1.0,Average,Split Level,Single-family,0,1,3,2826,9150
+132000,NAmes,1954,1.0,1.0,Average,One story,Single-family,0,1,2,2780,7800
+162000,NAmes,1959,1.0,1.0,Average,One story,Single-family,0,1,3,2926,9830
+172400,Gilbert,2000,1.0,1.0,Average,Two story,Single-family,1,2,3,3077,8121
+134432,ClearCr,1959,1.0,0.0,Below Average,One and a half story,Single-family,0,2,4,2268,17120
+125000,SawyerW,1984,1.0,0.0,Average,One story,Townhouse,0,1,2,1760,7175
+123000,NAmes,1953,1.0,1.0,Average,One story,Single-family,0,1,3,2197,10634
+219500,CollgCr,2003,0.0,0.0,Average,Two story,Single-family,1,2,4,3209,8200
+61000,Edwards,1922,1.0,0.0,Below Average,One story,Single-family,1,0,1,1587,10020
+148000,CollgCr,1996,1.0,1.0,Average,Split Foyer,Single-family,0,1,2,2360,8846
+340000,Somerst,2004,1.0,1.0,Above Average,Two story,Single-family,0,3,4,4656,11143
+394432,StoneBr,2010,1.0,1.0,Above Average,One story,Single-family,1,1,1,4546,11394
+179000,Gilbert,2000,1.0,1.0,Average,Two story,Single-family,1,2,3,3245,8123
+127000,SWISU,1924,1.0,1.0,Average,One and a half story,Single-family,0,2,3,3025,5000
+187750,Somerst,2006,1.0,0.0,Average,One story,Single-family,0,2,2,3166,7200
+213500,CollgCr,2006,1.0,0.0,Average,Two story,Single-family,1,2,3,3375,9245
+76000,SawyerW,1928,1.0,1.0,Average,One and a half story,Single-family,0,1,2,1928,9000
+240000,ClearCr,1992,1.0,1.0,Average,Two story,Single-family,1,2,3,4034,53107
+192000,Blmngtn,2004,0.0,0.0,Above Average,One story,Townhouse,0,2,2,2955,3182
+81000,Edwards,1910,1.0,1.0,Average,One and a half story,Single-family,0,1,5,1842,8410
+125000,Edwards,1976,1.0,0.0,Average,Split Level,Single-family,0,1,3,2518,7200
+191000,CollgCr,1999,1.0,1.0,Average,One story,Single-family,0,2,3,3524,9382
+426000,NridgHt,2007,1.0,0.0,Above Average,Two story,Single-family,1,2,3,4860,12474
+119000,Edwards,1900,1.0,1.0,Average,One and a half story,Single-family,0,1,4,2612,8405
+215000,Mitchel,2001,1.0,0.0,Average,Two story,Single-family,1,2,3,3325,12209
+106500,NAmes,1959,0.0,1.0,Average,One story,Single-family,0,1,3,1176,8339
+100000,BrkSide,1941,1.0,0.0,Below Average,One story,Single-family,0,1,2,1576,7446
+109000,OldTown,1940,1.0,0.0,Average,One and a half story,Single-family,0,1,2,2009,10134
+129000,Edwards,1956,1.0,0.0,Average,One story,Single-family,0,1,3,2884,9571
+123000,CollgCr,1972,1.0,1.0,Average,One story,Single-family,0,1,2,2388,7200
+169500,NAmes,1962,1.0,0.0,Average,Two story,Single-family,0,2,4,2940,7590
+67000,IDOTRR,1920,1.0,0.0,Average,One story,Single-family,0,1,2,2376,8967
+241000,Somerst,2006,1.0,1.0,Average,Two story,Single-family,0,2,2,3080,8125
+245500,Veenker,1996,1.0,1.0,Above Average,One story,Townhouse,1,1,1,3048,14963
+164990,CollgCr,2005,1.0,0.0,Average,One story,Single-family,0,2,3,3020,8767
+108000,Sawyer,1940,1.0,1.0,Average,One story,Single-family,0,1,2,1584,10200
+258000,NoRidge,1998,1.0,1.0,Above Average,Two story,Single-family,1,2,4,3824,12090
+168000,Gilbert,1995,1.0,1.0,Average,Two story,Single-family,1,2,3,2751,10364
+150000,Sawyer,1976,1.0,0.0,Below Average,One story,Single-family,0,2,3,3391,9991
+115000,SWISU,1936,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2470,10480
+177000,Crawfor,1915,1.0,1.0,Average,Two story,Single-family,0,2,4,2828,15576
+280000,NridgHt,2006,1.0,1.0,Average,Two story,Single-family,1,2,3,4182,14154
+339750,Somerst,2007,1.0,0.0,Above Average,Two story,Single-family,1,2,3,3948,10800
+60000,Edwards,1958,1.0,0.0,Average,One story,Single-family,0,1,3,2902,9571
+145000,Gilbert,1955,1.0,1.0,Average,One story,Two-family,0,1,3,2684,34650
+222000,Somerst,2009,1.0,1.0,Average,One story,Single-family,1,2,2,3432,4403
+115000,OldTown,1927,1.0,1.0,Average,One story,Single-family,0,1,2,2396,8960
+228000,SawyerW,1993,1.0,0.0,Average,Two story,Single-family,1,2,3,3855,11228
+181134,Gilbert,2007,1.0,1.0,Average,One story,Single-family,0,2,3,3076,8899
+149500,Sawyer,1978,1.0,1.0,Average,Two story,Single-family,1,1,3,2512,7844
+239000,Crawfor,1918,1.0,0.0,Average,Two story,Single-family,1,2,4,4858,22420
+126000,Edwards,1940,1.0,1.0,Average,One and a half story,Single-family,1,1,3,2130,8160
+142000,NAmes,1968,1.0,0.0,Average,One story,Single-family,0,1,3,2416,8450
+206300,Mitchel,1997,1.0,1.0,Average,Split Foyer,Duplex,0,2,2,3472,7060
+215000,NWAmes,1977,1.0,0.0,Average,One story,Single-family,0,2,3,3733,16635
+113000,Mitchel,1954,1.0,1.0,Average,One story,Single-family,0,1,2,2496,21750
+315000,NoRidge,1998,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4796,9200
+139000,NAmes,1956,1.0,1.0,Average,One story,Single-family,0,1,2,2689,9000
+135000,OldTown,1946,1.0,1.0,Average,Two story,Single-family,1,1,3,2280,3378
+275000,SawyerW,1989,1.0,0.0,Average,Split Level,Single-family,0,2,2,3731,12800
+109008,NAmes,1957,1.0,0.0,Below Average,One story,Single-family,0,1,3,2166,8593
+195400,CollgCr,2007,1.0,1.0,Average,One story,Single-family,0,2,2,3044,6762
+175000,Timber,1988,1.0,0.0,Average,One story,Single-family,0,2,3,3380,11457
+85400,BrDale,1971,0.0,0.0,Average,Two story,Townhouse,1,1,2,1734,1680
+79900,OldTown,1920,1.0,0.0,Average,One and a half story,Single-family,0,1,4,2099,5586
+122500,BrDale,1971,1.0,1.0,Average,Two story,Townhouse,1,1,2,2570,1920
+181000,Gilbert,1997,0.0,0.0,Average,Two story,Single-family,1,2,3,3000,10839
+81000,MeadowV,1972,1.0,1.0,Below Average,Split Foyer,Townhouse,0,1,1,1260,1890
+212000,CollgCr,1996,1.0,0.0,Average,Two story,Single-family,1,2,3,3010,10667
+116000,OldTown,1920,1.0,0.0,Average,One and a half story,Single-family,0,1,2,2206,4400
+119000,BrkSide,1926,1.0,1.0,Average,One and a half story,Single-family,0,1,2,1968,6000
+90350,Crawfor,1913,1.0,0.0,Average,One story,Single-family,0,1,2,1486,4280
+110000,Edwards,1920,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2408,12354
+555000,NridgHt,2008,0.0,0.0,Above Average,One story,Single-family,0,2,2,6168,15431
+118000,Edwards,1955,1.0,1.0,Below Average,One story,Duplex,0,2,4,2880,12108
+162900,BrkSide,1930,1.0,1.0,Average,One and a half story,Single-family,0,2,3,3011,6240
+172500,Blmngtn,2006,1.0,1.0,Average,One story,Townhouse,0,2,2,3164,3922
+210000,CollgCr,1994,1.0,1.0,Average,Two story,Single-family,1,2,4,3316,8750
+127500,Edwards,1956,1.0,1.0,Average,One story,Single-family,0,1,3,3605,9855
+190000,NAmes,1966,1.0,1.0,Average,One story,Single-family,1,2,2,3983,16492
+199900,Gilbert,1998,1.0,1.0,Average,Two story,Single-family,1,2,4,3247,11214
+119500,IDOTRR,1937,1.0,0.0,Average,One and a half story,Single-family,0,2,3,2354,8600
+120000,OldTown,1948,1.0,0.0,Below Average,One and a half story,Single-family,1,1,2,2140,6000
+110000,OldTown,1930,1.0,1.0,Average,One story,Single-family,0,1,2,1896,5684
+280000,ClearCr,1975,1.0,0.0,Average,One story,Single-family,0,2,2,3642,70761
+204000,Timber,1996,1.0,0.0,Average,Two story,Single-family,1,2,3,3050,9303
+210000,Somerst,2008,1.0,0.0,Above Average,Two story,Single-family,1,2,3,3034,9000
+188000,Mitchel,1976,1.0,1.0,Average,One story,Duplex,0,2,4,4016,9297
+175500,NWAmes,1973,1.0,0.0,Average,One story,Single-family,1,1,3,3012,9600
+98000,OldTown,1916,1.0,1.0,Average,Two story,Single-family,0,1,4,2481,4571
+256000,ClearCr,1954,1.0,1.0,Below Average,One story,Single-family,0,1,2,3556,53227
+161000,OldTown,1925,1.0,1.0,Above Average,Two story,Single-family,0,1,3,2482,5100
+110000,BrkSide,1950,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2264,7015
+263435,Somerst,2009,1.0,0.0,Above Average,Two story,Single-family,1,2,3,3319,8004
+155000,SWISU,1936,1.0,1.0,Average,Two story,Single-family,0,1,3,2271,7200
+62383,Sawyer,1965,1.0,1.0,Average,One story,Single-family,0,1,3,2088,8281
+188700,Crawfor,1934,0.0,0.0,Average,Two story,Single-family,1,1,3,2615,11988
+124000,CollgCr,1978,1.0,1.0,Average,One story,Single-family,0,2,3,2080,8430
+178740,Blmngtn,2004,1.0,1.0,Average,One story,Townhouse,0,2,2,3187,3072
+167000,NAmes,1970,1.0,1.0,Average,One story,Single-family,0,1,2,3080,10628
+146500,NAmes,1942,1.0,1.0,Average,Two story,Single-family,1,1,3,2684,9480
+250000,NridgHt,2006,1.0,0.0,Above Average,One story,Single-family,0,2,3,4126,11428
+187000,SawyerW,1993,1.0,0.0,Average,Two story,Single-family,1,2,3,3048,9291
+212000,StoneBr,1985,1.0,1.0,Above Average,One story,Townhouse,1,1,1,3518,6820
+190000,NWAmes,1977,1.0,0.0,Average,Two story,Single-family,1,2,3,3311,11952
+148000,Edwards,2005,1.0,1.0,Average,Split Level,Townhouse,0,1,2,2144,3675
+440000,NridgHt,2006,1.0,0.0,Above Average,One story,Single-family,0,2,2,4860,14977
+251000,StoneBr,2000,1.0,0.0,Above Average,One story,Townhouse,0,2,2,3645,5330
+132500,Sawyer,1963,1.0,1.0,Average,One story,Single-family,0,1,2,2564,8480
+208900,CollgCr,1997,1.0,1.0,Average,One story,Single-family,0,2,3,3479,13125
+380000,NridgHt,2006,1.0,1.0,Above Average,Two story,Single-family,1,2,3,5490,13693
+297000,CollgCr,2007,1.0,0.0,Above Average,One story,Single-family,0,2,3,4249,10637
+89471,OldTown,1937,1.0,1.0,Below Average,One story,Single-family,0,1,2,2710,5925
+326000,NridgHt,2004,1.0,1.0,Above Average,One story,Single-family,0,2,3,4455,16033
+374000,NridgHt,2003,1.0,1.0,Above Average,One story,Single-family,0,2,2,4458,11846
+155000,OldTown,1915,1.0,0.0,Average,Two story,Single-family,1,1,4,2900,2500
+164000,Mitchel,1998,1.0,0.0,Average,One story,Townhouse,0,2,2,2834,4500
+132500,Sawyer,1962,1.0,1.0,Average,One story,Single-family,0,1,3,2262,7758
+147000,NAmes,1950,1.0,0.0,Average,One story,Single-family,0,1,3,2490,9600
+156000,NAmes,1965,1.0,1.0,Average,One story,Single-family,1,1,3,2661,10289
+175000,NWAmes,1971,1.0,1.0,Average,One story,Single-family,0,2,3,3455,12243
+160000,OldTown,1900,1.0,0.0,Average,One and a half story,Two-family,0,2,3,3888,10800
+86000,MeadowV,1970,1.0,1.0,Below Average,Split Foyer,Townhouse,0,1,1,1546,1526
+115000,MeadowV,1976,1.0,1.0,Average,Two story,Townhouse,1,1,3,1904,2665
+133000,NAmes,1941,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2624,9490
+172785,Gilbert,2006,1.0,1.0,Average,Two story,Single-family,1,2,3,2613,15578
+155000,NAmes,1960,1.0,0.0,Average,One story,Single-family,1,1,3,2846,7931
+91300,OldTown,1938,0.0,0.0,Average,One story,Single-family,0,1,2,1349,5784
+34900,IDOTRR,1920,1.0,1.0,Below Average,One story,Single-family,0,1,2,1440,7879
+430000,NoRidge,1992,1.0,0.0,Above Average,One story,Single-family,0,3,4,6974,12692
+184000,BrkSide,1925,1.0,0.0,Average,One and a half story,Single-family,0,2,4,3086,9120
+130000,Sawyer,1967,1.0,0.0,Average,One story,Single-family,0,1,3,2051,7800
+120000,NAmes,1958,1.0,0.0,Average,One story,Single-family,0,1,2,2121,7535
+113000,BrDale,1973,1.0,0.0,Average,Two story,Townhouse,1,1,3,2154,1890
+226700,Somerst,2005,1.0,0.0,Average,Two story,Single-family,1,2,3,3237,9803
+140000,Edwards,1965,1.0,1.0,Average,One story,Single-family,0,1,2,2889,9170
+289000,Crawfor,1959,1.0,1.0,Average,One story,Single-family,0,2,1,3786,15602
+147000,NPkVill,1974,1.0,0.0,Average,Two story,Townhouse,1,2,3,2617,2308
+124500,OldTown,1952,1.0,1.0,Average,Two story,Duplex,0,2,4,3320,7596
+215000,SawyerW,1993,1.0,0.0,Above Average,Two story,Single-family,1,2,3,3159,9554
+208300,Somerst,2009,1.0,1.0,Average,One story,Single-family,0,2,2,3112,7862
+161000,OldTown,1928,1.0,0.0,Average,Two story,Single-family,0,2,3,2427,9600
+124500,NAmes,1959,1.0,1.0,Average,One story,Single-family,0,1,3,2352,9600
+164900,NAmes,1951,1.0,1.0,Average,One story,Single-family,0,1,2,2659,14559
+202665,NridgHt,2005,1.0,0.0,Average,One story,Townhouse,0,2,2,3210,6792
+129900,NAmes,1958,1.0,0.0,Average,One story,Single-family,0,1,3,2352,9100
+134000,Mitchel,1983,1.0,0.0,Average,One story,Single-family,1,1,3,2648,9187
+96500,Crawfor,1926,1.0,1.0,Average,One and a half story,Single-family,0,1,2,1757,10594
+402861,NridgHt,2009,1.0,1.0,Above Average,One story,Single-family,1,2,3,4926,12220
+158000,NWAmes,1972,1.0,1.0,Average,Split Level,Single-family,1,2,3,3391,10448
+265000,NoRidge,1996,1.0,0.0,Average,Two story,Single-family,1,2,3,4497,10208
+211000,CollgCr,1998,1.0,1.0,Average,Two story,Single-family,1,2,3,3136,9531
+234000,Crawfor,1926,0.0,0.0,Average,Two story,Single-family,1,1,3,3638,10918
+106250,OldTown,1900,1.0,1.0,Below Average,Two story,Two-family,0,2,3,1294,10800
+150000,NAmes,1957,1.0,1.0,Average,One story,Single-family,1,1,3,2824,11988
+159000,BrkSide,1947,1.0,1.0,Average,One and a half story,Single-family,0,2,3,3088,5000
+184750,Edwards,2007,1.0,1.0,Above Average,Two story,Single-family,1,3,3,8698,40094
+315750,NoRidge,1996,1.0,1.0,Average,Two story,Single-family,1,2,3,4611,11787
+176000,Somerst,2005,1.0,0.0,Average,One story,Single-family,0,2,3,2976,7500
+132000,NAmes,1956,1.0,1.0,Average,One story,Single-family,0,1,2,2108,13300
+446261,NridgHt,2008,0.0,0.0,Above Average,Two story,Single-family,1,2,3,5023,14948
+86000,Edwards,1920,1.0,1.0,Below Average,One story,Single-family,0,1,2,1133,9098
+200624,Crawfor,1957,1.0,1.0,Average,One story,Single-family,0,3,4,5034,32668
+175000,Timber,1988,1.0,0.0,Average,Split Level,Single-family,0,2,3,3570,10200
+128000,BrkSide,1920,1.0,1.0,Average,Two story,Single-family,0,2,3,2475,6155
+107500,NAmes,1955,0.0,0.0,Average,One story,Single-family,0,1,2,1219,7200
+39300,BrkSide,1946,1.0,1.0,Below Average,One story,Single-family,0,1,1,334,5000
+178000,Gilbert,2004,0.0,0.0,Above Average,Two story,Single-family,1,2,3,2524,9056
+107500,Edwards,1910,1.0,0.0,Average,Two story,Two-family,0,1,3,2464,7000
+188000,CollgCr,1998,1.0,0.0,Average,Two story,Single-family,1,2,3,3131,8924
+111250,NAmes,1972,1.0,1.0,Below Average,One story,Single-family,0,1,3,2304,12735
+158000,Sawyer,1968,1.0,1.0,Average,One story,Single-family,1,1,3,2546,11553
+272000,CollgCr,2001,1.0,1.0,Above Average,One story,Single-family,0,2,3,3852,11423
+315000,Timber,2006,1.0,1.0,Above Average,One story,Single-family,0,2,2,4441,14601
+248000,NoRidge,2000,1.0,1.0,Above Average,Two story,Single-family,1,2,4,3902,11000
+213250,NWAmes,1998,1.0,0.0,Average,One story,Single-family,0,2,3,3913,10140
+133000,NAmes,1998,1.0,1.0,Average,Split Foyer,Townhouse,0,1,1,1857,4058
+179665,Gilbert,2006,1.0,0.0,Average,Two story,Single-family,1,2,3,2576,17104
+229000,NWAmes,1988,1.0,1.0,Average,One and a half story,Single-family,1,2,4,4173,13837
+210000,BrkSide,1923,1.0,0.0,Average,One and a half story,Single-family,1,1,3,3140,8737
+129500,Mitchel,1970,1.0,0.0,Average,Split Foyer,Single-family,0,1,2,2160,7244
+125000,OldTown,1955,1.0,1.0,Average,One story,Single-family,0,1,2,2370,8235
+263000,Somerst,2003,1.0,0.0,Average,Two story,Single-family,1,2,4,3621,9375
+140000,NPkVill,1977,1.0,0.0,Average,One story,Townhouse,0,2,2,2578,4043
+112500,OldTown,1957,1.0,1.0,Average,One story,Single-family,0,1,3,2144,6000
+255500,NridgHt,2006,1.0,0.0,Above Average,One story,Single-family,0,2,3,4334,11146
+108000,Edwards,1949,1.0,1.0,Below Average,One story,Single-family,0,2,2,1646,8777
+284000,NridgHt,2003,1.0,1.0,Average,Two story,Single-family,1,2,3,3915,10625
+113000,BrkSide,1922,1.0,1.0,Average,One and a half story,Single-family,0,1,2,2321,6380
+141000,NAmes,1957,1.0,0.0,Average,One story,Single-family,0,1,2,2483,14850
+108000,IDOTRR,1920,1.0,1.0,Below Average,One and a half story,Single-family,1,1,3,2543,11040
+175000,Gilbert,1996,1.0,1.0,Average,Two story,Single-family,1,2,3,2581,21872
+234000,Blmngtn,2003,1.0,1.0,Average,One story,Townhouse,0,2,2,3351,3196
+121500,Sawyer,1957,1.0,1.0,Average,One story,Single-family,1,1,3,3312,11341
+170000,Mitchel,1974,0.0,1.0,Average,One story,Single-family,0,1,2,3196,10010
+108000,Edwards,1940,1.0,1.0,Average,One story,Single-family,0,1,3,1992,13907
+185000,Edwards,1918,1.0,1.0,Average,One and a half story,Single-family,0,2,4,3233,21780
+268000,NoRidge,1992,1.0,0.0,Average,Two story,Single-family,1,2,4,3980,13346
+128000,SWISU,1915,1.0,1.0,Average,Two story,Single-family,1,1,4,2669,6858
+325000,StoneBr,2005,1.0,0.0,Above Average,Two story,Single-family,1,2,4,4282,11198
+214000,NridgHt,2004,1.0,1.0,Average,One story,Single-family,0,2,3,3584,10171
+316600,SawyerW,1983,1.0,1.0,Above Average,One and a half story,Single-family,1,1,1,4240,12327
+135960,NAmes,1979,1.0,0.0,Average,Split Foyer,Duplex,0,1,2,2486,7032
+142600,NAmes,1965,1.0,0.0,Average,One story,Duplex,0,2,6,4032,13101
+120000,NAmes,1959,1.0,0.0,Average,One story,Single-family,0,1,2,2016,7332
+224500,Timber,2009,1.0,1.0,Average,Two story,Single-family,1,2,3,3188,13159
+170000,Gilbert,2000,1.0,0.0,Average,Split Level,Single-family,1,2,3,2214,9967
+139000,NAmes,1971,1.0,0.0,Average,Split Level,Single-family,0,1,3,1769,10500
+118500,NAmes,1947,1.0,1.0,Average,One and a half story,Single-family,0,1,2,2384,8480
+145000,SWISU,1928,1.0,1.0,Average,One and a half story,Single-family,0,2,3,2554,6292
+164500,Sawyer,1966,1.0,0.0,Average,Split Level,Single-family,0,1,3,3048,11777
+146000,Somerst,2007,1.0,0.0,Average,Two story,Townhouse,0,2,2,2621,3604
+131500,OldTown,1954,1.0,1.0,Average,One and a half story,Single-family,0,2,4,3197,12150
+181900,NAmes,1960,1.0,1.0,Average,One story,Single-family,0,1,3,3145,14585
+253293,NridgHt,2008,0.0,0.0,Above Average,One story,Single-family,1,2,3,5474,12704
+118500,Edwards,1990,1.0,1.0,Average,Split Foyer,Duplex,0,1,3,1632,11841
+325000,OldTown,1893,1.0,0.0,Above Average,Two and a half story,Single-family,1,3,3,4892,13500
+133000,BrkSide,1935,1.0,1.0,Below Average,One and a half story,Single-family,0,1,3,2697,6120
+369900,Timber,2005,1.0,0.0,Above Average,One story,Single-family,0,2,2,4776,11443
+130000,BrkSide,1918,1.0,0.0,Average,One story,Single-family,0,1,2,1929,10267
+137000,Sawyer,1982,1.0,1.0,Average,Split Foyer,Single-family,0,1,2,2228,8740
+143000,ClearCr,1968,1.0,0.0,Average,One story,Single-family,0,1,1,3362,25095
+79500,BrkSide,1930,1.0,0.0,Average,One story,Single-family,0,1,2,1829,9100
+185900,CollgCr,2004,1.0,1.0,Average,Two story,Single-family,1,2,3,2872,8320
+451950,NridgHt,2008,1.0,0.0,Above Average,Two story,Single-family,1,2,3,4860,13478
+138000,Mitchel,1982,1.0,0.0,Average,One story,Single-family,0,1,2,2448,6600
+140000,CollgCr,2003,1.0,0.0,Average,One story,Townhouse,0,1,1,2116,4435
+110000,CollgCr,1975,1.0,1.0,Average,One story,Single-family,0,1,3,2128,7990
+319000,StoneBr,2005,1.0,0.0,Above Average,One story,Single-family,0,2,3,4398,11302
+114504,OldTown,1910,1.0,1.0,Average,Two story,Single-family,0,1,3,2268,3600
+194201,Blmngtn,2006,1.0,1.0,Average,One story,Townhouse,2,0,2,3308,3922
+217500,Crawfor,1977,1.0,1.0,Average,One story,Single-family,0,2,3,3698,12984
+151000,Blueste,1980,1.0,1.0,Average,Two story,Townhouse,1,2,3,2724,1950
+275000,NridgHt,2005,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3698,10927
+141000,IDOTRR,1937,1.0,1.0,Average,One and a half story,Single-family,1,1,3,2699,9000
+220000,SawyerW,1992,1.0,0.0,Above Average,Two story,Single-family,1,2,3,3329,10041
+151000,Somerst,2004,1.0,1.0,Average,Two story,Townhouse,1,2,2,2280,3182
+221000,CollgCr,2002,1.0,1.0,Average,One story,Single-family,0,2,3,3518,12803
+205000,NAmes,1965,1.0,0.0,Average,Two story,Single-family,1,2,3,3240,13600
+152000,CollgCr,1996,1.0,0.0,Average,One story,Single-family,0,1,3,2656,12464
+225000,Edwards,1948,1.0,1.0,Average,Two story,Single-family,0,3,3,3134,7800
+359100,Crawfor,1934,1.0,0.0,Above Average,Two story,Single-family,1,2,4,4539,12168
+118500,Sawyer,1961,1.0,1.0,Below Average,One story,Single-family,0,1,3,2319,7943
+313000,CollgCr,2000,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4329,11050
+148000,NWAmes,1978,1.0,1.0,Average,Split Level,Single-family,0,2,3,2628,10395
+261500,CollgCr,2001,0.0,0.0,Above Average,Two story,Single-family,1,2,3,3702,11885
+147000,Mitchel,2007,0.0,0.0,Average,One story,Single-family,0,1,3,2240,8402
+75500,MeadowV,1972,1.0,0.0,Below Average,Split Foyer,Townhouse,0,1,1,1260,1491
+137500,NAmes,1963,1.0,1.0,Average,Split Foyer,Single-family,0,1,3,2470,8800
+183200,Gilbert,2002,1.0,0.0,Average,Two story,Single-family,1,2,3,2685,7861
+105500,NAmes,1954,1.0,1.0,Average,One and a half story,Single-family,0,1,2,2192,7227
+314813,NridgHt,2007,1.0,1.0,Above Average,One story,Single-family,0,2,3,4424,11694
+305000,Timber,2003,0.0,0.0,Above Average,Two story,Single-family,1,2,4,4493,12244
+67000,Edwards,1914,1.0,1.0,Below Average,One story,Single-family,0,1,2,1728,8248
+240000,NWAmes,1974,1.0,0.0,Average,Two story,Single-family,1,2,4,4760,10800
+135000,Sawyer,1977,1.0,1.0,Average,One story,Single-family,0,1,3,2444,7064
+168500,Somerst,2000,1.0,1.0,Average,Two story,Townhouse,1,2,2,2708,2117
+165150,NWAmes,1972,1.0,0.0,Average,Two story,Single-family,2,1,4,3006,10400
+160000,NAmes,1962,1.0,1.0,Average,One story,Single-family,1,1,3,2672,10000
+139900,NAmes,1960,1.0,1.0,Average,One story,Single-family,0,1,3,2686,12342
+153000,NAmes,1955,1.0,1.0,Average,Split Level,Single-family,0,1,3,3040,9600
+135000,NAmes,1969,1.0,0.0,Average,Two story,Single-family,2,1,5,3624,11606
+168500,NAmes,1964,1.0,0.0,Average,Split Level,Single-family,1,1,3,3118,9020
+124000,OldTown,1880,1.0,1.0,Average,Two story,Single-family,0,1,3,2626,9000
+209500,NridgHt,2006,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3735,4590
+82500,NWAmes,1977,1.0,0.0,Average,One story,Single-family,0,2,3,3341,11900
+139400,NAmes,1954,1.0,0.0,Average,One story,Single-family,0,1,3,2372,9250
+144000,OldTown,1980,0.0,0.0,Average,Split Foyer,Duplex,0,0,0,2688,6979
+200000,SWISU,1914,0.0,1.0,Average,Two and a half story,Two-family,0,2,8,4320,10896
+60000,BrkSide,1936,1.0,0.0,Below Average,One story,Single-family,0,1,1,1064,6120
+93000,OldTown,1954,0.0,0.0,Average,One and a half story,Two-family,0,2,3,2454,6000
+85000,Edwards,1910,1.0,1.0,Average,One story,Single-family,0,1,2,1592,8777
+264561,Blmngtn,2006,1.0,1.0,Above Average,One story,Townhouse,0,2,1,3735,3982
+274000,NridgHt,2003,1.0,1.0,Above Average,One story,Townhouse,1,1,1,3624,12677
+226000,Somerst,2001,1.0,1.0,Average,Two story,Single-family,1,2,3,3636,7050
+345000,NAmes,1972,1.0,0.0,Above Average,Split Level,Single-family,1,2,4,5194,13860
+152000,NWAmes,1969,1.0,1.0,Average,Two story,Single-family,1,2,4,2862,10793
+370878,Somerst,2009,1.0,0.0,Above Average,One story,Single-family,1,2,2,4010,9187
+143250,NAmes,1971,1.0,0.0,Average,One story,Single-family,1,1,3,2538,10530
+98300,NAmes,1950,1.0,1.0,Average,One story,Single-family,0,1,3,1468,7200
+155000,Edwards,1953,1.0,1.0,Average,One story,Single-family,0,1,3,2683,10452
+155000,NAmes,1966,0.0,0.0,Average,Two story,Single-family,1,1,4,3037,7700
+84500,MeadowV,1970,1.0,0.0,Below Average,Split Foyer,Townhouse,0,1,1,1260,1936
+205950,Somerst,2007,1.0,1.0,Average,Two story,Single-family,1,2,3,3040,8125
+108000,Edwards,1940,1.0,1.0,Below Average,Two story,Single-family,0,1,4,2561,9084
+191000,CollgCr,1996,1.0,0.0,Average,Two story,Single-family,1,2,2,3108,8750
+135000,IDOTRR,1906,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2441,10320
+350000,NoRidge,1995,1.0,0.0,Above Average,One story,Single-family,1,2,2,5061,10437
+88000,BrDale,1971,1.0,0.0,Average,Two story,Townhouse,1,1,3,1881,1680
+145500,NAmes,1959,1.0,1.0,Average,One story,Single-family,1,1,3,2418,10007
+149000,Crawfor,1931,1.0,1.0,Average,Two story,Single-family,1,1,3,2548,7200
+97500,NAmes,1948,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2700,17503
+167000,Edwards,1964,1.0,1.0,Average,One story,Single-family,0,1,3,3452,9937
+197900,NWAmes,1976,1.0,1.0,Average,Two story,Single-family,1,2,3,3278,12384
+402000,NoRidge,1994,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4788,46589
+110000,NAmes,1968,1.0,0.0,Average,One story,Single-family,0,1,2,3360,13560
+137500,Edwards,1972,1.0,1.0,Below Average,Split Foyer,Single-family,0,2,3,2907,10012
+423000,Somerst,2005,1.0,1.0,Above Average,One story,Single-family,1,1,1,5308,20896
+230500,Gilbert,2000,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3846,11194
+129000,NAmes,1965,1.0,1.0,Average,Two story,Single-family,1,2,3,3997,18450
+193500,SawyerW,1994,1.0,1.0,Average,One story,Single-family,0,2,3,3662,8125
+168000,Sawyer,1956,1.0,1.0,Average,One story,Single-family,1,1,3,3201,14175
+137500,Crawfor,1922,1.0,0.0,Below Average,One story,Single-family,0,1,2,2132,11600
+173500,CollgCr,2005,1.0,0.0,Average,Two story,Single-family,1,2,3,2754,8633
+103600,Edwards,1925,1.0,1.0,Average,Two story,Single-family,0,2,3,2341,6629
+165000,Veenker,1977,1.0,1.0,Average,One story,Single-family,1,1,3,2962,11250
+257500,Crawfor,1957,1.0,1.0,Average,One story,Single-family,0,2,3,3732,14442
+140000,NAmes,1965,1.0,1.0,Average,One story,Single-family,0,1,3,2656,9200
+148500,NPkVill,1978,1.0,0.0,Average,Two story,Townhouse,1,2,3,2736,2289
+87000,OldTown,1900,1.0,0.0,Below Average,Two story,Single-family,0,2,4,3648,9600
+109500,OldTown,1924,1.0,1.0,Average,One story,Single-family,0,1,2,1800,9022
+372500,StoneBr,2008,1.0,0.0,Above Average,One story,Single-family,1,2,3,4926,11844
+128500,Sawyer,1961,1.0,1.0,Average,One story,Single-family,0,1,3,2548,9945
+143000,SawyerW,1980,1.0,0.0,Average,One story,Townhouse,0,2,2,2110,8012
+159434,SWISU,1932,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2594,4500
+173000,ClearCr,1996,1.0,1.0,Average,One story,Single-family,0,1,2,3013,2887
+285000,CollgCr,2002,1.0,0.0,Above Average,One story,Single-family,0,2,3,3996,11248
+221000,NoRidge,1998,1.0,1.0,Average,Two story,Single-family,1,2,4,3520,16770
+207500,StoneBr,1984,1.0,0.0,Average,Two story,Townhouse,0,2,3,3857,5062
+227875,Somerst,2007,1.0,0.0,Average,Two story,Single-family,0,3,3,3213,10207
+148800,Somerst,2004,1.0,1.0,Average,Two story,Townhouse,1,2,2,2133,5105
+392000,StoneBr,2007,1.0,1.0,Above Average,One story,Single-family,0,2,2,3405,8089
+194700,NridgHt,2005,1.0,1.0,Average,One story,Townhouse,0,2,2,3184,7577
+141000,CollgCr,2004,1.0,1.0,Average,One story,Townhouse,0,1,1,2116,4426
+755000,NoRidge,1994,1.0,1.0,Above Average,Two story,Single-family,1,3,4,7592,21535
+335000,Timber,1989,1.0,0.0,Average,Two story,Single-family,1,2,4,4357,26178
+108480,OldTown,1921,1.0,0.0,Average,One story,Single-family,0,1,2,2472,5400
+141500,BrkSide,1936,1.0,1.0,Average,One and a half story,Single-family,1,1,3,3042,6120
+176000,Timber,1987,1.0,0.0,Average,One story,Single-family,0,2,2,2800,13811
+89000,BrkSide,1921,1.0,0.0,Average,One story,Single-family,0,1,2,1437,6000
+123500,Edwards,1952,1.0,1.0,Average,One story,Single-family,0,1,2,2436,6420
+138500,Sawyer,1965,1.0,0.0,Average,One story,Single-family,0,1,3,2124,8450
+196000,Somerst,2004,1.0,1.0,Average,One story,Townhouse,0,2,2,3312,4282
+312500,Timber,2002,1.0,0.0,Above Average,One story,Single-family,0,2,3,4365,14331
+140000,NWAmes,1969,1.0,1.0,Average,One story,Single-family,1,1,3,2856,9600
+361919,StoneBr,2006,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4476,12438
+140000,OldTown,1900,1.0,0.0,Average,Two story,Two-family,0,2,4,2844,7630
+213000,CollgCr,2004,0.0,0.0,Average,One story,Single-family,0,2,3,3563,8400
+55000,IDOTRR,1930,1.0,1.0,Below Average,Two story,Two-family,0,2,3,1092,5600
+302000,ClearCr,1971,1.0,1.0,Average,One story,Single-family,0,2,2,4206,115149
+254000,NridgHt,2006,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3198,6240
+179540,Gilbert,2007,1.0,0.0,Average,Two story,Single-family,1,2,3,2584,9018
+109900,Sawyer,1966,0.0,0.0,Average,One story,Single-family,0,1,3,2188,7162
+52000,BrkSide,1935,1.0,0.0,Below Average,One story,Single-family,0,1,2,999,4130
+102776,IDOTRR,1900,1.0,1.0,Below Average,One and a half story,Single-family,0,1,2,2421,8712
+189000,StoneBr,1988,1.0,0.0,Above Average,One story,Townhouse,0,2,2,2928,4671
+129000,BrkSide,1970,1.0,0.0,Below Average,One story,Two-family,0,1,3,2496,9873
+130500,Sawyer,1976,1.0,1.0,Average,Two story,Single-family,1,2,3,2679,13517
+165000,NWAmes,1974,1.0,0.0,Average,One story,Single-family,0,2,3,2892,10140
+159500,OldTown,1890,1.0,1.0,Average,Two story,Single-family,1,1,3,3976,10800
+157000,NWAmes,1973,1.0,1.0,Average,One story,Single-family,1,1,3,2793,10000
+341000,NoRidge,1993,1.0,1.0,Average,Two story,Single-family,1,2,3,4712,10542
+128500,CollgCr,1969,1.0,1.0,Average,One story,Single-family,1,1,3,2242,9920
+275000,StoneBr,1985,1.0,0.0,Above Average,One story,Single-family,0,2,2,4048,6563
+143000,CollgCr,2004,1.0,0.0,Average,One story,Townhouse,0,1,1,2116,4426
+124500,NAmes,1970,1.0,0.0,Below Average,One story,Single-family,0,1,3,2191,8120
+135000,Edwards,1954,1.0,1.0,Below Average,One and a half story,Single-family,0,2,4,2959,8172
+320000,Edwards,2007,1.0,0.0,Above Average,One story,Single-family,0,2,3,4164,13286
+120500,NAmes,1970,1.0,1.0,Below Average,One story,Single-family,0,1,3,2388,6960
+222000,Crawfor,1988,1.0,0.0,Average,One story,Single-family,0,2,3,3100,21695
+194500,CollgCr,2007,1.0,0.0,Average,One story,Single-family,0,2,2,3096,7314
+110000,NAmes,1958,1.0,0.0,Average,One story,Duplex,0,2,4,4248,11475
+103000,IDOTRR,1925,1.0,1.0,Below Average,One and a half story,Single-family,0,1,2,2167,6240
+236500,StoneBr,1995,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3819,5389
+187500,Timber,2003,1.0,1.0,Average,Split Level,Single-family,0,2,3,2452,9590
+222500,CollgCr,1998,1.0,1.0,Average,Two story,Single-family,1,2,3,3725,11404
+131400,Sawyer,1961,1.0,0.0,Average,One story,Single-family,0,1,3,2272,10000
+108000,Sawyer,1968,1.0,1.0,Average,One story,Single-family,0,1,3,2196,8978
+163000,OldTown,1914,1.0,0.0,Average,Two and a half story,Single-family,1,1,2,2968,10800
+93500,NAmes,1950,1.0,1.0,Below Average,One story,Duplex,0,2,2,1440,8544
+239900,Gilbert,2005,0.0,0.0,Above Average,Two story,Single-family,1,2,3,3494,10463
+179000,Edwards,1987,1.0,0.0,Average,One story,Duplex,0,3,3,2400,10800
+190000,CollgCr,2004,1.0,0.0,Average,Two story,Single-family,1,2,3,3164,9313
+132000,OldTown,1910,1.0,0.0,Average,Two story,Single-family,0,2,2,2056,9600
+142000,Sawyer,1961,1.0,0.0,Average,One story,Single-family,0,1,3,2112,6768
+179000,SawyerW,2000,1.0,1.0,Average,One story,Single-family,0,2,3,3237,8450
+175000,Sawyer,1963,1.0,1.0,Average,Split Level,Single-family,0,2,3,2464,12886
+180000,StoneBr,1993,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3136,5395
+299800,NWAmes,1976,1.0,1.0,Above Average,Two story,Single-family,1,3,4,4688,8963
+236000,Gilbert,2000,1.0,1.0,Average,Two story,Single-family,1,2,4,3762,8795
+265979,OldTown,1880,1.0,1.0,Average,Two story,Single-family,1,1,4,4744,11700
+260400,NoRidge,1996,1.0,0.0,Average,One story,Single-family,0,2,3,3967,10593
+98000,Edwards,1945,0.0,0.0,Below Average,One and a half story,Single-family,0,2,4,1769,8405
+96500,OldTown,1910,1.0,0.0,Below Average,One and a half story,Single-family,0,1,3,1716,8800
+162000,Gilbert,2003,1.0,0.0,Average,Two story,Single-family,1,2,3,2380,7750
+217000,CollgCr,1997,1.0,1.0,Average,One story,Single-family,0,2,3,3549,9236
+275500,NridgHt,2005,1.0,0.0,Above Average,Two story,Single-family,1,2,3,4006,10240
+156000,NAmes,1969,1.0,0.0,Average,One story,Single-family,0,1,3,2492,7930
+172500,Somerst,1999,1.0,0.0,Average,Two story,Townhouse,1,2,3,2640,3230
+212000,CollgCr,2007,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3212,10769
+158900,Sawyer,1978,1.0,0.0,Average,Two story,Single-family,1,2,3,2498,11616
+179400,Somerst,1999,1.0,1.0,Average,Two story,Townhouse,1,2,3,2685,2280
+290000,NoRidge,1995,1.0,0.0,Above Average,Two story,Single-family,1,2,4,4601,12257
+127500,NAmes,1959,1.0,0.0,Average,One story,Single-family,0,1,2,2028,9100
+100000,BrkSide,1924,1.0,0.0,Average,One story,Single-family,0,1,2,2886,6911
+215200,Somerst,2009,1.0,1.0,Average,Two story,Single-family,1,2,3,2917,8640
+337000,NoRidge,1999,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4473,9430
+270000,Veenker,1995,1.0,1.0,Above Average,One story,Townhouse,1,1,2,3469,9549
+264132,Somerst,2008,1.0,1.0,Above Average,One story,Single-family,0,2,2,3596,14587
+196500,NWAmes,1988,1.0,0.0,Average,Two story,Single-family,1,2,3,3190,10421
+160000,Mitchel,1940,1.0,1.0,Average,One and a half story,Single-family,0,2,4,3156,12508
+216837,CollgCr,2004,1.0,1.0,Average,One story,Single-family,0,2,3,4180,9100
+538000,StoneBr,2003,1.0,0.0,Above Average,Two story,Single-family,1,3,4,5770,53504
+134900,Sawyer,1982,1.0,0.0,Average,Split Foyer,Single-family,0,1,2,2292,7252
+102000,Edwards,1951,1.0,1.0,Below Average,One story,Single-family,0,1,2,2452,8877
+107000,Edwards,1976,1.0,0.0,Average,Split Level,Single-family,0,1,3,2818,7819
+114500,NAmes,1958,1.0,1.0,Average,One story,Single-family,0,1,2,2099,10150
+395000,NridgHt,2006,1.0,0.0,Above Average,One story,Single-family,0,2,3,4803,14226
+162000,Mitchel,1998,1.0,0.0,Average,One story,Townhouse,0,2,2,2820,4500
+221500,CollgCr,2005,1.0,1.0,Average,One story,Single-family,0,2,3,4093,11210
+142500,Sawyer,1974,1.0,1.0,Average,One story,Single-family,0,1,3,2198,13350
+144000,SawyerW,1977,1.0,0.0,Average,One story,Duplex,0,2,4,2650,8400
+135000,Mitchel,1977,1.0,1.0,Average,Split Foyer,Duplex,0,1,2,2483,10530
+176000,Gilbert,1995,1.0,0.0,Average,One story,Single-family,0,2,3,2892,7875
+175900,SawyerW,1992,1.0,0.0,Average,Two story,Single-family,1,2,3,2848,7153
+187100,CollgCr,2001,1.0,1.0,Average,One story,Single-family,0,2,3,3448,16285
+165500,Mitchel,1978,0.0,1.0,Average,Split Foyer,Single-family,0,1,1,2809,9101
+128000,OldTown,1914,1.0,1.0,Average,Two and a half story,Single-family,0,2,3,2226,6300
+161500,NWAmes,1967,1.0,0.0,Average,One story,Single-family,0,2,3,3171,9790
+139000,OldTown,1915,1.0,0.0,Average,One and a half story,Single-family,0,2,4,2754,10800
+233000,SawyerW,2004,1.0,0.0,Average,Two story,Single-family,1,2,4,3658,10142
+107900,OldTown,1954,1.0,0.0,Below Average,One story,Single-family,0,1,2,2083,6000
+187500,ClearCr,1966,1.0,1.0,Average,Two story,Single-family,1,2,5,3363,12205
+160200,Blmngtn,2005,1.0,1.0,Average,One story,Townhouse,0,2,2,2687,3182
+146800,Mitchel,1976,1.0,1.0,Average,Split Level,Single-family,0,1,3,2630,11333
+269790,NoRidge,1996,1.0,0.0,Average,Two story,Single-family,1,2,3,3585,9920
+225000,Somerst,2007,1.0,1.0,Above Average,One story,Single-family,0,2,3,3466,9158
+194500,Gilbert,1994,1.0,1.0,Average,Two story,Single-family,1,2,3,3016,10832
+171000,SawyerW,1980,1.0,1.0,Average,Two story,Single-family,1,2,3,2690,8400
+143500,Sawyer,1977,1.0,0.0,Average,One story,Single-family,1,1,3,2473,8197
+110000,NAmes,1953,1.0,1.0,Average,One story,Single-family,0,1,2,1786,7677
+485000,NridgHt,2008,1.0,1.0,Above Average,Two story,Single-family,1,3,4,5886,13518
+175000,SWISU,1937,1.0,0.0,Average,One and a half story,Single-family,1,1,3,2739,7200
+200000,ClearCr,1997,1.0,0.0,Average,Two story,Single-family,1,2,4,2907,12798
+109900,IDOTRR,1916,1.0,1.0,Below Average,One story,Single-family,0,1,2,2832,4800
+189000,CollgCr,2005,1.0,1.0,Average,Two story,Single-family,1,2,3,2594,8199
+582933,NridgHt,2008,1.0,0.0,Above Average,Two story,Single-family,1,3,4,5576,13891
+118000,NAmes,1954,1.0,0.0,Average,One story,Single-family,0,1,2,2350,9000
+227680,Somerst,2008,1.0,0.0,Average,One story,Single-family,0,2,3,3399,12274
+135500,NAmes,1967,1.0,1.0,Average,Split Level,Single-family,0,2,3,2344,9750
+223500,BrkSide,1923,1.0,1.0,Average,Two story,Single-family,1,1,3,3428,21384
+159950,NAmes,1966,1.0,0.0,Average,Split Level,Single-family,0,1,3,2594,13400
+106000,OldTown,1898,1.0,1.0,Average,Two and a half story,Single-family,0,2,2,3347,8100
+181000,NWAmes,1974,1.0,1.0,Average,One story,Single-family,1,1,3,2833,10140
+144500,CollgCr,2004,1.0,0.0,Average,One story,Townhouse,0,1,1,2116,4438
+55993,IDOTRR,1952,1.0,0.0,Average,One story,Single-family,0,1,2,2088,8712
+157900,NAmes,1958,1.0,0.0,Average,One story,Single-family,1,1,4,3185,9750
+116000,Edwards,1918,1.0,0.0,Average,One and a half story,Single-family,1,1,3,2216,8248
+224900,CollgCr,1998,1.0,1.0,Average,One story,Single-family,0,2,3,3908,12137
+137000,NAmes,1954,1.0,1.0,Average,One story,Single-family,0,1,2,2291,11425
+271000,Mitchel,2002,1.0,0.0,Above Average,One story,Single-family,0,2,3,4114,13265
+155000,ClearCr,1971,1.0,1.0,Average,Split Level,Single-family,0,1,3,2502,8816
+224000,NridgHt,2009,1.0,0.0,Average,One story,Townhouse,0,2,2,3200,6371
+183000,CollgCr,2003,1.0,0.0,Average,Two story,Single-family,1,2,3,3033,7226
+93000,OldTown,1953,1.0,1.0,Below Average,One story,Two-family,0,1,2,2448,6000
+225000,Gilbert,2003,1.0,1.0,Average,Two story,Single-family,1,2,3,3013,12394
+139500,SWISU,1940,1.0,1.0,Average,One and a half story,Single-family,0,2,3,2507,9900
+232600,Somerst,2006,1.0,1.0,Above Average,One story,Single-family,0,2,3,3754,11216
+385000,NridgHt,2007,0.0,0.0,Above Average,One story,Single-family,0,2,2,5382,14803
+109500,BrkSide,1924,1.0,1.0,Average,One and a half story,Single-family,0,1,2,1568,6130
+189000,SawyerW,2001,1.0,0.0,Average,One story,Single-family,0,2,3,3415,8529
+185000,ClearCr,1967,1.0,0.0,Average,Two story,Single-family,1,2,3,3677,28698
+147400,Somerst,2005,1.0,1.0,Average,Two story,Townhouse,1,2,2,2223,2544
+166000,NAmes,1957,1.0,0.0,Average,One story,Single-family,1,1,3,3242,11900
+151000,Somerst,2005,1.0,1.0,Average,Two story,Townhouse,1,2,2,2200,3180
+237000,CollgCr,2003,1.0,0.0,Average,Two story,Single-family,1,2,3,3383,9548
+167000,NAmes,1964,1.0,0.0,Average,One story,Single-family,1,1,3,3504,10004
+139950,NAmes,1961,1.0,0.0,Average,One story,Single-family,0,1,3,2744,7875
+128000,Sawyer,1950,1.0,0.0,Below Average,One story,Single-family,0,2,2,2570,9600
+153500,OldTown,1948,1.0,0.0,Average,One story,Single-family,0,1,2,3930,8100
+100000,BrDale,1973,1.0,0.0,Average,Two story,Townhouse,1,1,2,1734,1680
+144000,CollgCr,1995,1.0,0.0,Average,One story,Single-family,1,1,3,2550,9525
+130500,Edwards,1946,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2208,11767
+140000,SWISU,1925,1.0,1.0,Average,Two story,Single-family,0,2,4,2554,12155
+157500,OldTown,1904,1.0,0.0,Average,Two story,Single-family,0,2,3,2875,10440
+174900,NAmes,1966,0.0,0.0,Average,Split Level,Single-family,1,1,3,2782,9020
+141000,NAmes,1961,1.0,1.0,Average,One story,Duplex,0,2,6,3600,8000
+153900,OldTown,1915,1.0,1.0,Average,One and a half story,Single-family,1,1,4,3012,12665
+171000,Sawyer,1975,1.0,1.0,Average,Split Foyer,Single-family,0,2,3,3702,16647
+213000,SawyerW,1993,1.0,1.0,Average,Two story,Single-family,1,2,3,2940,9317
+133500,CollgCr,1972,1.0,1.0,Average,One story,Single-family,0,1,3,2066,15523
+240000,ClearCr,1908,1.0,1.0,Average,One and a half story,Single-family,0,3,5,3625,45600
+187000,Veenker,1976,1.0,0.0,Average,Split Level,Single-family,1,2,3,2895,9600
+131500,CollgCr,2003,1.0,1.0,Average,One story,Townhouse,0,1,1,2116,4435
+215000,Blmngtn,2003,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3129,3196
+164000,Crawfor,1941,1.0,1.0,Average,Two and a half story,Single-family,0,2,4,2804,7128
+158000,NAmes,1964,1.0,1.0,Average,Split Level,Single-family,1,1,3,3217,12095
+170000,Sawyer,1955,1.0,0.0,Average,One story,Single-family,1,1,3,3996,17920
+127000,Sawyer,1962,1.0,0.0,Average,One story,Single-family,1,1,3,2340,6897
+147000,CollgCr,1978,1.0,1.0,Average,Split Level,Single-family,0,1,3,2542,10970
+174000,Gilbert,1994,1.0,1.0,Average,Two story,Single-family,1,2,3,2526,8125
+152000,NWAmes,1976,1.0,1.0,Average,One story,Single-family,0,2,3,2939,10400
+250000,NWAmes,1968,1.0,1.0,Average,Two story,Single-family,1,2,4,4327,11029
+189950,Crawfor,1918,1.0,0.0,Average,One and a half story,Single-family,1,1,3,2554,7642
+131500,Sawyer,1965,1.0,0.0,Average,One story,Two-family,1,1,3,2582,11625
+152000,SawyerW,1984,1.0,0.0,Average,One story,Single-family,0,2,3,2617,9672
+132500,NAmes,1959,1.0,0.0,Average,One story,Single-family,0,1,3,2968,7931
+250580,Somerst,2007,1.0,0.0,Average,One story,Single-family,0,2,3,3273,8640
+148500,NAmes,1970,1.0,1.0,Average,One story,Single-family,0,1,3,2906,8750
+248900,Timber,2006,1.0,0.0,Above Average,One story,Single-family,0,2,3,4154,10656
+129000,Sawyer,1961,1.0,1.0,Below Average,One story,Single-family,1,1,3,2704,6970
+169000,Gilbert,1948,1.0,1.0,Average,Two story,Single-family,0,2,2,2939,14762
+236000,SawyerW,1993,1.0,0.0,Average,Two story,Single-family,1,2,3,3573,9938
+109500,NAmes,1962,1.0,0.0,Average,One story,Single-family,0,1,2,2096,6600
+200500,CollgCr,1998,1.0,0.0,Average,Two story,Single-family,1,2,3,3009,8750
+116000,NAmes,1953,1.0,1.0,Average,One story,Single-family,0,1,3,1429,8892
+133000,NAmes,1949,1.0,0.0,Average,One story,Single-family,0,1,3,2156,12144
+66500,OldTown,1941,1.0,1.0,Average,One and a half story,Single-family,1,1,3,2007,5720
+303477,Somerst,2007,1.0,0.0,Above Average,Two story,Single-family,1,2,4,4344,9000
+132250,Mitchel,1963,1.0,1.0,Below Average,One story,Single-family,0,1,3,2752,25286
+350000,NridgHt,2004,1.0,0.0,Above Average,Two story,Single-family,1,2,4,4424,8834
+148000,Sawyer,1961,1.0,0.0,Average,Split Foyer,Single-family,0,1,3,2840,11782
+136500,CollgCr,1978,1.0,0.0,Average,One story,Single-family,0,1,3,2064,7000
+157000,Edwards,2005,1.0,1.0,Average,One story,Single-family,1,1,2,2630,7024
+187500,Timber,1990,1.0,1.0,Average,One and a half story,Single-family,1,2,3,3273,13758
+178000,Gilbert,1992,1.0,0.0,Average,Two story,Single-family,1,2,3,2790,9636
+118500,SWISU,1912,1.0,0.0,Below Average,Two and a half story,Single-family,0,1,5,2984,6204
+100000,NAmes,1967,1.0,1.0,Average,One story,Single-family,0,1,3,2072,7150
+328900,Somerst,1999,1.0,0.0,Above Average,One story,Townhouse,0,2,2,3913,5119
+145000,NAmes,1959,1.0,0.0,Average,One story,Duplex,0,2,4,3926,8393
+135500,Edwards,1955,1.0,1.0,Average,One and a half story,Single-family,1,1,3,2509,16466
+268000,NAmes,1970,1.0,1.0,Above Average,One story,Single-family,0,2,4,5055,15865
+149500,NAmes,1953,1.0,1.0,Average,One story,Single-family,0,1,2,3515,12160
+122900,NAmes,1949,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2172,8064
+172500,Sawyer,1978,1.0,0.0,Average,Two story,Single-family,1,2,3,3041,11184
+154500,Sawyer,1963,1.0,1.0,Average,One story,Single-family,0,1,3,2391,8414
+165000,Sawyer,1954,1.0,0.0,Average,One story,Single-family,0,1,3,3120,13284
+118858,SawyerW,1979,1.0,1.0,Average,One story,Duplex,0,2,4,1935,7018
+140000,NAmes,1963,1.0,0.0,Average,Two story,Single-family,1,1,4,3059,7056
+106500,IDOTRR,1936,1.0,0.0,Below Average,One story,Single-family,0,1,2,2229,8765
+142953,SawyerW,1979,1.0,1.0,Average,Two story,Duplex,0,2,6,2768,7018
+611657,NridgHt,2009,1.0,1.0,Above Average,One story,Single-family,1,2,2,5514,12919
+135000,Sawyer,1961,1.0,0.0,Average,One story,Single-family,0,1,3,2436,6993
+110000,NAmes,1971,1.0,0.0,Below Average,One story,Single-family,0,1,2,2400,7340
+153000,NAmes,1957,1.0,1.0,Average,One story,Single-family,0,1,2,3054,8712
+180000,Gilbert,2003,1.0,1.0,Average,Two story,Single-family,1,2,3,2685,7875
+240000,Gilbert,2006,1.0,0.0,Average,One story,Single-family,0,2,3,4030,14859
+125500,Sawyer,1967,1.0,0.0,Average,One story,Single-family,0,1,3,2066,6173
+128000,NAmes,1954,1.0,1.0,Average,One story,Single-family,0,1,3,2399,9920
+255000,Somerst,2006,1.0,1.0,Above Average,One story,Single-family,0,2,3,4124,13501
+250000,Crawfor,1936,1.0,0.0,Average,One and a half story,Single-family,1,1,3,3254,11500
+131000,Mitchel,1983,1.0,1.0,Average,One story,Single-family,0,1,2,2250,8885
+174000,Gilbert,2005,1.0,0.0,Average,Two story,Single-family,1,2,3,2616,12589
+154300,NAmes,1960,1.0,0.0,Average,Two story,Duplex,0,2,5,3859,11600
+143500,CollgCr,1977,1.0,0.0,Average,One story,Single-family,1,1,3,2788,9286
+88000,BrkSide,1925,1.0,0.0,Average,One story,Single-family,0,1,3,2233,6120
+145000,Crawfor,1949,1.0,0.0,Average,Two story,Duplex,0,2,4,3874,6270
+173733,Somerst,2009,1.0,0.0,Average,Two story,Townhouse,1,2,2,2364,3000
+75000,MeadowV,1970,1.0,0.0,Below Average,Two story,Townhouse,1,1,3,1924,2001
+35311,IDOTRR,1949,1.0,0.0,Below Average,One story,Single-family,0,0,1,1268,9000
+135000,Edwards,1956,1.0,1.0,Below Average,One story,Single-family,0,1,3,2647,17140
+238000,SawyerW,1991,1.0,1.0,Average,Two story,Single-family,1,2,4,4064,13125
+176500,NAmes,1958,1.0,0.0,Average,One story,Single-family,0,1,3,3199,11029
+201000,SawyerW,1994,0.0,0.0,Average,Two story,Single-family,1,2,3,3120,8462
+145900,Edwards,1900,1.0,1.0,Average,One and a half story,Duplex,2,2,4,3472,8777
+169990,Gilbert,2005,1.0,1.0,Average,One story,Single-family,0,2,3,3029,10237
+193000,SawyerW,1993,1.0,1.0,Average,One story,Townhouse,0,2,2,3754,8012
+207500,NWAmes,1980,1.0,0.0,Average,One story,Single-family,0,2,3,3984,10240
+175000,NWAmes,1977,1.0,1.0,Average,One story,Single-family,0,2,3,2792,15611
+285000,NridgHt,2003,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4211,11999
+176000,NWAmes,1968,1.0,1.0,Average,Two story,Single-family,1,2,4,3296,9900
+236500,CollgCr,2001,1.0,1.0,Above Average,One story,Single-family,0,2,3,4063,11838
+222000,Gilbert,1997,1.0,0.0,Average,Two story,Single-family,1,2,4,3842,13006
+201000,Timber,2007,1.0,0.0,Above Average,One story,Single-family,0,2,3,3542,8925
+117500,NAmes,1965,1.0,1.0,Average,One story,Single-family,0,1,2,2279,9100
+320000,Somerst,2006,1.0,0.0,Above Average,One story,Single-family,0,2,3,4598,11670
+190000,CollgCr,2004,1.0,1.0,Average,One story,Single-family,0,2,3,3570,8487
+242000,NAmes,1960,1.0,0.0,Average,One story,Single-family,0,2,4,3159,27650
+79900,BrkSide,1926,1.0,0.0,Below Average,One story,Single-family,0,1,1,1875,5825
+184900,SawyerW,2003,1.0,1.0,Average,One story,Single-family,0,2,2,2931,10083
+253000,Somerst,2005,1.0,0.0,Average,Two story,Single-family,1,2,3,3773,9675
+239799,CollgCr,2006,1.0,1.0,Average,Two story,Single-family,1,2,3,4221,8760
+244400,ClearCr,1940,1.0,0.0,Average,Two story,Single-family,0,2,4,3784,24090
+150900,Mitchel,1976,1.0,1.0,Average,One story,Duplex,0,2,4,4030,12640
+214000,Gilbert,1999,0.0,0.0,Average,Two story,Single-family,1,2,3,3442,8755
+150000,Edwards,1977,1.0,0.0,Below Average,One story,Duplex,0,2,4,2880,7711
+143000,Mitchel,1967,1.0,1.0,Average,One story,Duplex,0,2,4,3840,25000
+137500,Timber,1958,1.0,0.0,Average,Split Level,Single-family,0,1,3,2688,14375
+124900,OldTown,1890,1.0,1.0,Average,One and a half story,Single-family,0,1,2,3293,8820
+143000,NAmes,1959,1.0,1.0,Average,Split Level,Single-family,0,1,3,3084,8163
+270000,Timber,2002,1.0,1.0,Above Average,One story,Single-family,0,2,3,4053,14536
+192500,CollgCr,2002,1.0,1.0,Average,Two story,Single-family,1,2,3,3186,14006
+197500,NWAmes,1972,1.0,0.0,Average,One story,Single-family,1,1,3,3218,9360
+129000,NAmes,1950,1.0,0.0,Average,One story,Single-family,0,1,3,2448,7200
+119900,SawyerW,1965,1.0,0.0,Average,One story,Single-family,0,1,3,2093,7800
+133900,CollgCr,1972,1.0,1.0,Average,Split Foyer,Single-family,0,1,2,1932,7200
+172000,Mitchel,1969,0.0,0.0,Average,Two story,Single-family,1,2,4,3282,11075
+127500,Edwards,1975,1.0,0.0,Average,Split Foyer,Duplex,0,2,4,1925,9400
+145000,Crawfor,1946,1.0,1.0,Average,Two story,Duplex,0,2,4,3429,7136
+124000,Blueste,1980,1.0,0.0,Average,Two story,Townhouse,1,1,2,2252,1300
+132000,Sawyer,1962,1.0,0.0,Average,One story,Single-family,0,1,3,2690,7420
+185000,CollgCr,2003,1.0,0.0,Average,One story,Single-family,0,2,3,3205,8450
+155000,Somerst,1999,0.0,0.0,Average,Two story,Townhouse,1,2,3,2596,2572
+116500,BrkSide,1958,1.0,1.0,Average,One story,Single-family,0,1,2,1716,7207
+272000,NWAmes,1977,1.0,1.0,Average,Two story,Single-family,1,2,4,4821,12227
+155000,NPkVill,1976,1.0,0.0,Average,Two story,Townhouse,1,2,3,2792,2308
+239000,CollgCr,2007,1.0,1.0,Above Average,One story,Single-family,0,2,2,4302,11923
+214900,Timber,2002,1.0,1.0,Average,Two story,Single-family,1,2,4,3221,11316
+178900,Gilbert,2005,1.0,1.0,Average,Two story,Single-family,1,2,3,2660,10237
+160000,Crawfor,1940,1.0,0.0,Average,One and a half story,Single-family,1,1,2,2292,9600
+135000,NAmes,1955,0.0,0.0,Average,One story,Single-family,0,1,3,2456,7390
+37900,OldTown,1910,1.0,0.0,Below Average,One and a half story,Single-family,0,1,2,1568,5925
+140000,NAmes,1958,0.0,0.0,Average,Split Level,Two-family,0,1,2,1947,10382
+135000,NAmes,1949,1.0,0.0,Below Average,One and a half story,Single-family,1,1,4,1912,10800
+173000,NridgHt,2003,1.0,1.0,Average,Two story,Townhouse,0,2,2,2864,2268
+99500,SawyerW,1979,1.0,0.0,Average,One story,Townhouse,0,2,2,2100,7892
+182000,Somerst,2007,1.0,0.0,Average,One story,Single-family,0,2,3,3336,11639
+167500,BrkSide,1910,1.0,0.0,Average,Two story,Single-family,0,1,3,3279,11414
+165000,Somerst,2000,0.0,0.0,Average,Two story,Townhouse,1,2,3,2545,2651
+85500,BrkSide,1923,1.0,0.0,Below Average,One story,Single-family,0,1,2,1309,5900
+199900,Somerst,2006,1.0,0.0,Average,One story,Townhouse,1,1,1,3051,4274
+110000,Edwards,1954,1.0,0.0,Below Average,One story,Single-family,0,1,3,2188,9450
+139000,Sawyer,1963,1.0,0.0,Average,One story,Single-family,0,1,3,2722,8816
+178400,NAmes,1961,1.0,1.0,Average,Split Foyer,Single-family,0,1,3,2531,12122
+336000,NoRidge,1998,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4513,12203
+159895,Blmngtn,2007,1.0,1.0,Average,One story,Single-family,0,2,2,2920,3182
+255900,CollgCr,2002,1.0,0.0,Above Average,Two story,Single-family,1,2,4,4197,11250
+126000,Mitchel,1977,1.0,0.0,Average,One and a half story,Duplex,0,2,4,2273,10125
+125000,Edwards,1950,1.0,0.0,Average,One story,Two-family,0,1,3,2568,10880
+117000,OldTown,1910,1.0,1.0,Average,One and a half story,Single-family,0,1,2,2375,5310
+395192,NridgHt,2009,1.0,1.0,Above Average,One story,Single-family,1,2,3,4476,10159
+195000,NWAmes,1976,1.0,0.0,Average,Two story,Single-family,1,2,4,3429,12046
+197000,Somerst,2006,1.0,1.0,Average,Two story,Single-family,1,2,3,2960,8125
+348000,NoRidge,1997,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4658,9452
+168000,OldTown,1882,1.0,1.0,Above Average,Two story,Single-family,1,1,4,3082,17671
+187000,NAmes,1964,1.0,0.0,Average,Two story,Single-family,1,2,3,3113,9760
+173900,CollgCr,2005,1.0,1.0,Average,Two story,Single-family,1,2,3,2814,8846
+337500,NridgHt,2006,1.0,0.0,Above Average,One story,Single-family,0,2,3,4204,12456
+121600,BrkSide,1946,1.0,0.0,Below Average,One and a half story,Single-family,1,1,3,2282,4712
+136500,NAmes,1961,1.0,1.0,Average,One story,Single-family,0,1,3,2468,10659
+185000,NWAmes,1970,1.0,1.0,Average,One story,Single-family,0,2,2,3499,11717
+91000,IDOTRR,1922,1.0,0.0,Below Average,One story,Single-family,0,1,3,2294,9786
+206000,CollgCr,2006,1.0,0.0,Average,One story,Single-family,0,2,2,3027,6762
+82000,Edwards,1952,1.0,0.0,Below Average,One story,Single-family,0,1,2,1472,10206
+86000,OldTown,1920,1.0,1.0,Average,One story,Single-family,0,1,2,1598,5400
+232000,Somerst,2006,1.0,0.0,Above Average,One story,Single-family,0,2,3,3972,11957
+136905,NWAmes,1976,1.0,1.0,Average,One story,Duplex,0,2,4,3888,11500
+181000,Blmngtn,2005,1.0,0.0,Average,One story,Townhouse,0,2,1,3307,3182
+149900,CollgCr,1977,1.0,1.0,Average,Split Level,Single-family,0,2,3,2298,8385
+163500,NAmes,1970,1.0,0.0,Average,One story,Single-family,0,2,3,3798,12155
+88000,MeadowV,1970,1.0,1.0,Below Average,Two story,Townhouse,1,1,3,1924,2217
+240000,Mitchel,2004,0.0,0.0,Average,One story,Single-family,0,2,3,3970,12118
+102000,SWISU,1926,1.0,1.0,Average,One and a half story,Single-family,0,2,4,2016,6000
+135000,Sawyer,1948,0.0,0.0,Average,One and a half story,Single-family,0,2,4,2303,21286
+100000,Edwards,1965,1.0,1.0,Average,One story,Duplex,0,2,4,1664,9825
+165000,Crawfor,1923,1.0,0.0,Average,Two story,Single-family,1,1,3,2284,10592
+85000,OldTown,1910,1.0,1.0,Average,One story,Single-family,0,1,2,2324,7200
+119200,NAmes,1948,1.0,0.0,Average,One story,Single-family,0,1,2,2404,11664
+227000,NWAmes,2001,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3003,8400
+203000,CollgCr,1996,1.0,1.0,Average,One story,Single-family,0,2,3,3486,11883
+187500,StoneBr,1984,1.0,1.0,Above Average,One story,Townhouse,0,1,1,3145,5814
+160000,Gilbert,1991,1.0,1.0,Average,Split Level,Single-family,1,2,3,2258,10784
+213490,Blmngtn,2005,1.0,0.0,Average,One story,Townhouse,0,2,2,3308,3013
+176000,Edwards,2005,1.0,0.0,Below Average,One story,Single-family,1,1,2,2715,7024
+194000,CollgCr,2006,1.0,0.0,Average,One story,Single-family,0,2,2,3051,7406
+87000,OldTown,1930,1.0,1.0,Average,One and a half story,Single-family,0,1,2,2320,9439
+191000,Blmngtn,2005,1.0,1.0,Average,One story,Townhouse,0,2,2,3287,3182
+287000,Timber,1976,1.0,0.0,Above Average,One story,Single-family,0,2,2,5128,15498
+112500,CollgCr,1972,1.0,1.0,Average,One story,Single-family,0,1,3,2225,7700
+167500,NAmes,1960,1.0,1.0,Average,One story,Single-family,0,1,3,2993,9300
+293077,Timber,2007,1.0,1.0,Above Average,One story,Single-family,0,2,3,4084,9520
+105000,NAmes,1941,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2384,9492
+118000,BrDale,1972,0.0,0.0,Average,Two story,Townhouse,1,1,3,2154,1680
+160000,SWISU,1916,1.0,1.0,Average,Two story,Two-family,0,2,5,2614,7082
+197000,SWISU,1920,1.0,1.0,Average,Two and a half story,Single-family,1,2,5,4181,15863
+310000,NoRidge,1993,1.0,0.0,Above Average,Two story,Single-family,1,2,5,4654,14541
+230000,CollgCr,2002,1.0,1.0,Average,One story,Single-family,0,2,3,4208,8125
+119750,Crawfor,1938,1.0,0.0,Average,One story,Single-family,0,1,2,2114,6305
+84000,Edwards,1957,1.0,1.0,Below Average,One story,Single-family,0,1,3,1135,11500
+315500,Timber,2007,1.0,1.0,Above Average,One story,Single-family,0,2,2,4152,12898
+287000,CollgCr,2001,0.0,1.0,Above Average,Two story,Single-family,1,2,3,4223,9240
+97000,MeadowV,1970,1.0,0.0,Below Average,Two story,Townhouse,1,1,3,1890,1533
+80000,MeadowV,1970,1.0,1.0,Below Average,Split Foyer,Townhouse,0,1,1,1546,1477
+155000,Sawyer,1957,1.0,0.0,Average,One story,Single-family,0,2,3,3421,13125
+173000,NWAmes,1966,1.0,1.0,Average,Two story,Single-family,1,1,4,2916,9130
+196000,NridgHt,2005,1.0,1.0,Average,One story,Townhouse,0,2,1,3236,5381
+262280,SawyerW,1990,1.0,1.0,Average,Two story,Single-family,1,2,4,4318,11839
+278000,NWAmes,1981,1.0,1.0,Above Average,One story,Single-family,1,2,4,5590,9600
+139600,Edwards,1955,1.0,1.0,Below Average,One story,Single-family,0,2,4,2185,13680
+556581,StoneBr,2005,1.0,0.0,Above Average,Two story,Single-family,1,3,4,5576,16056
+145000,CollgCr,1994,1.0,1.0,Average,One story,Single-family,0,1,3,2652,9245
+115000,Mitchel,1960,1.0,0.0,Average,One story,Single-family,0,1,3,2107,21750
+84900,Edwards,1946,1.0,0.0,Below Average,One story,Single-family,0,1,2,1238,11100
+176485,Gilbert,2007,1.0,1.0,Average,One story,Single-family,0,2,3,3040,8993
+200141,CollgCr,2007,1.0,1.0,Average,One story,Single-family,0,2,3,3072,11175
+165000,NAmes,1964,1.0,1.0,Average,Two story,Single-family,1,1,4,3333,9500
+144500,Edwards,1957,1.0,1.0,Average,One story,Single-family,0,1,4,3106,8562
+255000,CollgCr,2002,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3640,11367
+180000,NWAmes,1976,1.0,1.0,Average,One story,Single-family,0,2,3,3194,11361
+185850,NridgHt,2005,1.0,1.0,Average,One story,Townhouse,0,2,2,3212,7052
+248000,NoRidge,1994,1.0,1.0,Average,Two story,Single-family,1,2,3,3290,29959
+335000,NridgHt,2008,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4124,11308
+220000,Crawfor,1932,1.0,0.0,Average,One and a half story,Single-family,1,1,3,3277,11275
+213500,StoneBr,2001,1.0,0.0,Above Average,One story,Townhouse,0,2,2,3258,4920
+81000,IDOTRR,1935,1.0,0.0,Below Average,One story,Single-family,0,1,2,3036,18000
+90000,OldTown,1900,1.0,1.0,Average,Two story,Two-family,0,2,5,3559,13600
+110500,OldTown,1925,1.0,1.0,Average,One story,Single-family,0,1,2,2646,6000
+154000,NAmes,1966,1.0,0.0,Average,One story,Single-family,1,1,3,2788,11000
+328000,ClearCr,1996,1.0,1.0,Average,Two story,Single-family,1,2,3,4099,14000
+178000,Gilbert,1993,1.0,0.0,Average,Two story,Single-family,1,2,3,2750,7837
+167900,NAmes,1964,1.0,1.0,Average,Two story,Single-family,1,1,4,2833,9760
+151400,MeadowV,1973,1.0,0.0,Average,Two story,Townhouse,1,2,5,4039,3964
+135000,NAmes,1949,1.0,0.0,Average,One and a half story,Single-family,0,1,2,2314,9600
+135000,NAmes,1956,1.0,0.0,Average,One story,Single-family,0,1,3,2382,10152
+154000,NWAmes,1968,1.0,1.0,Average,Two story,Single-family,1,1,4,2724,11700
+91500,Edwards,1948,1.0,0.0,Average,One and a half story,Single-family,0,1,4,2546,7585
+159500,Edwards,1977,1.0,0.0,Average,Two story,Single-family,1,1,3,2556,7950
+194000,CollgCr,2006,1.0,1.0,Average,One story,Single-family,0,2,2,3306,8556
+219500,Crawfor,1940,1.0,1.0,Average,Two story,Single-family,1,1,3,2780,13125
+170000,OldTown,1936,1.0,0.0,Average,One and a half story,Single-family,0,2,3,2828,10800
+138800,NAmes,1969,1.0,1.0,Average,One story,Single-family,0,1,3,2491,15870
+155900,CollgCr,2004,1.0,0.0,Average,One story,Townhouse,0,1,1,2116,4435
+126000,CollgCr,1994,1.0,0.0,Average,One story,Single-family,0,1,3,2279,8775
+145000,NWAmes,1971,1.0,0.0,Average,One story,Single-family,0,2,3,3044,11040
+133000,Sawyer,1963,1.0,1.0,Average,One story,Single-family,1,1,3,2388,7500
+192000,CollgCr,2002,1.0,1.0,Average,One story,Single-family,0,2,3,3445,8749
+160000,NAmes,1964,1.0,1.0,Average,One story,Single-family,0,1,3,2963,8800
+187500,Gilbert,1995,1.0,0.0,Average,Two story,Single-family,1,2,3,2598,13031
+147000,SawyerW,1992,1.0,0.0,Average,Split Foyer,Single-family,0,1,2,2496,9069
+83500,MeadowV,1973,1.0,1.0,Below Average,Two story,Townhouse,1,1,3,1924,1974
+252000,Somerst,2005,1.0,0.0,Above Average,Two story,Single-family,1,2,3,4078,10574
+137500,Edwards,2004,1.0,1.0,Average,Two story,Townhouse,0,2,3,3059,2522
+197000,Somerst,2005,1.0,0.0,Above Average,One story,Townhouse,1,1,1,3044,3316
+92900,NAmes,1950,1.0,0.0,Below Average,One story,Duplex,0,2,2,1440,8544
+160000,Somerst,1999,1.0,1.0,Average,Two story,Townhouse,1,2,2,2314,2160
+136500,SWISU,1925,1.0,0.0,Average,One and a half story,Single-family,0,2,4,3451,8400
+146000,NAmes,1965,1.0,0.0,Average,One story,Single-family,1,1,1,2948,9230
+129000,NAmes,1956,1.0,1.0,Average,One story,Single-family,0,1,2,2180,5868
+176432,CollgCr,2006,0.0,0.0,Average,One story,Single-family,0,2,3,3068,9317
+127000,IDOTRR,1914,1.0,0.0,Average,Two story,Single-family,1,1,3,2039,6882
+170000,StoneBr,1986,1.0,0.0,Above Average,One story,Townhouse,1,1,2,2623,3696
+128000,BrkSide,1936,1.0,1.0,Below Average,One and a half story,Single-family,0,1,3,2236,6000
+157000,NWAmes,1978,1.0,0.0,Average,One story,Single-family,0,2,3,3350,11880
+60000,SWISU,1920,1.0,0.0,Below Average,One story,Single-family,0,1,1,974,8400
+119500,NAmes,1971,1.0,0.0,Average,One story,Single-family,0,1,3,2180,9758
+135000,NAmes,1960,1.0,1.0,Average,One story,Single-family,0,1,2,2398,7000
+159500,NAmes,1959,1.0,0.0,Average,One story,Single-family,0,1,3,2388,8910
+106000,BrDale,1970,1.0,1.0,Average,Two story,Townhouse,1,2,3,2372,2016
+325000,NoRidge,1994,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4797,12256
+179900,SawyerW,1990,1.0,1.0,Average,One story,Single-family,0,2,3,3071,10357
+274725,Gilbert,2006,1.0,1.0,Average,Two story,Single-family,1,2,3,3311,23257
+181000,Gilbert,2000,1.0,1.0,Average,Two story,Single-family,1,2,3,3077,8063
+280000,NridgHt,2004,1.0,1.0,Above Average,One story,Single-family,0,2,3,4534,11362
+188000,Gilbert,1995,1.0,1.0,Average,Two story,Single-family,1,2,3,2862,8000
+205000,NWAmes,1976,1.0,0.0,Average,Two story,Single-family,1,2,4,3250,10480
+129900,NAmes,1957,1.0,0.0,Average,One story,Single-family,0,1,2,1940,7100
+134500,NAmes,1953,1.0,0.0,Average,One story,Single-family,0,1,2,2256,8923
+117000,OldTown,1954,1.0,1.0,Average,One story,Single-family,0,1,2,1992,5400
+318000,NridgHt,2007,1.0,1.0,Above Average,One story,Single-family,0,2,3,4396,12085
+184100,Gilbert,2002,1.0,0.0,Above Average,Split Level,Single-family,1,2,3,2354,7750
+130000,Sawyer,1967,1.0,0.0,Average,One story,Single-family,0,1,3,2238,9764
+140000,Sawyer,1958,1.0,0.0,Average,Split Level,Single-family,0,1,3,2434,13825
+133700,NAmes,1959,1.0,1.0,Average,One story,Single-family,0,1,3,2366,7560
+118400,IDOTRR,1920,1.0,0.0,Average,One story,Single-family,0,1,2,2332,8263
+212900,CollgCr,2005,1.0,0.0,Average,One story,Single-family,0,2,3,3886,10084
+112000,Edwards,1956,0.0,0.0,Below Average,One story,Single-family,0,1,3,1920,8926
+118000,Edwards,1947,1.0,1.0,Average,One story,Single-family,0,1,2,1396,9405
+163900,Gilbert,1992,1.0,1.0,Average,Split Level,Single-family,1,2,3,2258,9125
+115000,NAmes,1955,1.0,1.0,Below Average,One story,Single-family,0,1,2,2682,10434
+174000,Blmngtn,2007,1.0,1.0,Average,One story,Townhouse,0,2,2,3588,3684
+259000,Gilbert,2004,1.0,1.0,Average,One story,Single-family,0,2,3,3690,14572
+215000,Gilbert,2004,1.0,0.0,Average,Two story,Single-family,1,2,4,3240,11796
+140000,OldTown,1980,1.0,1.0,Average,Split Foyer,Duplex,0,1,2,2544,7200
+135000,SWISU,1928,0.0,0.0,Below Average,One and a half story,Single-family,0,2,4,3679,7804
+93500,Mitchel,1991,1.0,0.0,Average,One story,Single-family,0,1,3,1948,10712
+117500,OldTown,1880,1.0,1.0,Average,Two story,Single-family,0,2,5,3423,9900
+239500,SawyerW,1995,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3614,9828
+169000,Gilbert,1997,1.0,1.0,Average,Two story,Single-family,1,2,3,2976,8773
+102000,BrkSide,1926,1.0,0.0,Average,One story,Single-family,0,1,2,2126,6180
+119000,NAmes,1950,0.0,0.0,Average,One and a half story,Single-family,0,1,3,2572,9600
+94000,Sawyer,1875,1.0,1.0,Average,One and a half story,Single-family,0,1,2,1800,6342
+196000,Mitchel,1977,1.0,1.0,Average,One story,Single-family,0,2,2,3848,9819
+144000,BrkSide,1920,1.0,0.0,Average,One story,Single-family,0,1,3,2577,8731
+139000,NAmes,1951,1.0,1.0,Average,One story,Single-family,0,1,2,2744,7350
+197500,NWAmes,1976,1.0,1.0,Average,Two story,Single-family,1,2,4,3132,10304
+424870,CollgCr,2006,0.0,0.0,Above Average,Two story,Single-family,0,3,4,5346,9965
+80000,Sawyer,1959,1.0,0.0,Average,One story,Single-family,0,1,3,2012,9000
+80000,Edwards,1941,1.0,1.0,Below Average,One and a half story,Two-family,0,1,2,1876,12180
+149000,BrkSide,1928,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2843,6240
+180000,SawyerW,1985,1.0,1.0,Average,One story,Single-family,0,2,3,2999,11200
+174500,Crawfor,1941,1.0,1.0,Average,Two story,Single-family,1,1,3,2502,12000
+116900,OldTown,1926,1.0,0.0,Average,One and a half story,Single-family,0,1,2,1971,5700
+143000,OldTown,1920,1.0,1.0,Average,Two story,Single-family,0,1,3,2456,9000
+124000,NAmes,1950,1.0,1.0,Average,One story,Single-family,0,1,2,2170,8280
+149900,Edwards,1959,1.0,1.0,Average,One story,Single-family,1,1,3,3460,17755
+230000,Crawfor,1956,1.0,0.0,Average,One story,Single-family,0,1,2,3354,14115
+120500,IDOTRR,1930,1.0,1.0,Average,One story,Single-family,0,1,2,2064,5890
+201800,NAmes,1965,1.0,1.0,Average,Two story,Single-family,2,1,4,3176,13700
+218000,Veenker,1976,1.0,1.0,Average,One story,Single-family,0,2,3,3402,10768
+179900,NAmes,1965,1.0,1.0,Average,Split Level,Single-family,0,2,3,2986,9350
+230000,NridgHt,2007,1.0,0.0,Average,One story,Townhouse,0,2,2,3254,5001
+235128,Somerst,2007,1.0,1.0,Above Average,One story,Single-family,0,2,3,3990,11932
+185000,NWAmes,1974,1.0,1.0,Average,Two story,Single-family,1,2,4,3317,9120
+146000,NPkVill,1978,1.0,1.0,Average,Two story,Townhouse,1,2,3,2751,2280
+224000,Crawfor,1954,1.0,1.0,Average,One story,Single-family,0,1,3,3860,14778
+129000,Sawyer,1968,1.0,0.0,Average,One story,Single-family,0,1,3,2238,8724
+108959,Sawyer,1969,1.0,1.0,Below Average,Split Foyer,Duplex,2,0,0,2856,12900
+194000,Veenker,1978,1.0,0.0,Average,Split Level,Single-family,1,1,2,3380,16157
+233170,NridgHt,2009,1.0,0.0,Average,One story,Single-family,0,2,3,3648,9541
+245350,CollgCr,2008,1.0,1.0,Above Average,One story,Single-family,0,2,3,4164,10475
+173000,Gilbert,2000,1.0,1.0,Average,Two story,Single-family,1,2,3,3102,10852
+235000,Edwards,1935,1.0,1.0,Average,Two story,Single-family,0,2,4,3775,13728
+625000,NoRidge,1995,1.0,1.0,Above Average,Two story,Single-family,1,3,4,6364,35760
+171000,Mitchel,1977,1.0,1.0,Average,Split Level,Single-family,0,1,3,2572,9880
+163000,NAmes,1958,1.0,0.0,Average,One story,Single-family,0,1,3,2955,9120
+171900,Somerst,2006,0.0,1.0,Average,Two story,Townhouse,1,2,2,2500,4017
+200500,ClearCr,1946,1.0,1.0,Average,One and a half story,Single-family,0,3,3,4205,18030
+239000,Crawfor,1932,1.0,1.0,Average,Two story,Single-family,1,2,4,3657,16560
+285000,NoRidge,1992,1.0,0.0,Above Average,One and a half story,Single-family,1,2,4,5096,10678
+119500,Mitchel,1984,1.0,0.0,Average,One story,Single-family,0,1,3,2063,6951
+115000,OldTown,1926,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2252,3950
+154900,Crawfor,1921,0.0,1.0,Average,One and a half story,Single-family,1,1,3,2260,7681
+93000,Edwards,1954,1.0,0.0,Average,One story,Single-family,0,1,3,1124,8335
+250000,Timber,1990,1.0,1.0,Average,Two story,Single-family,1,2,4,4423,11170
+392500,Crawfor,2008,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3734,5587
+745000,NoRidge,1996,1.0,1.0,Above Average,Two story,Single-family,1,3,4,7685,15623
+120000,OldTown,1920,1.0,1.0,Average,One story,Single-family,0,1,2,2970,10800
+186700,Timber,1963,1.0,0.0,Average,One story,Single-family,1,1,3,4139,35133
+104900,Edwards,1924,1.0,0.0,Average,One and a half story,Single-family,0,1,4,2397,9738
+95000,OldTown,1900,1.0,1.0,Below Average,Two story,Two-family,0,2,3,3097,10615
+262000,NoRidge,1994,1.0,0.0,Above Average,One story,Single-family,0,2,2,4005,12461
+195000,CollgCr,2002,1.0,1.0,Average,Two story,Single-family,1,2,3,2984,8935
+189000,Gilbert,1999,1.0,1.0,Average,Two story,Single-family,1,2,3,3240,7500
+168000,Mitchel,1961,1.0,0.0,Below Average,One story,Two-family,0,1,3,4227,32463
+174000,Somerst,1999,1.0,0.0,Above Average,Two story,Townhouse,1,2,2,2709,2645
+125000,OldTown,1925,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2424,9600
+165000,Mitchel,1999,1.0,0.0,Average,One story,Townhouse,0,2,2,2850,4500
+158000,Sawyer,1969,1.0,0.0,Average,Two story,Single-family,1,1,4,2314,9364
+176000,Gilbert,2005,1.0,1.0,Average,Two story,Single-family,1,2,3,2584,8029
+219210,Gilbert,2006,1.0,1.0,Average,Two story,Single-family,1,2,4,3402,14054
+144000,OldTown,1916,1.0,0.0,Average,Two and a half story,Single-family,0,1,3,2730,8850
+178000,CollgCr,2001,1.0,1.0,Average,One story,Single-family,0,2,3,2997,9100
+148000,Sawyer,1963,1.0,0.0,Below Average,One story,Single-family,1,1,3,2892,11235
+116050,NAmes,1970,1.0,0.0,Below Average,One story,Single-family,0,1,3,2008,9353
+197900,CollgCr,1998,1.0,1.0,Average,Two story,Single-family,1,2,3,3191,10400
+117000,BrkSide,1925,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2448,6000
+213000,CollgCr,2000,1.0,0.0,Average,One story,Single-family,0,2,3,3711,9750
+153500,NWAmes,1975,1.0,1.0,Average,One story,Single-family,1,1,3,2625,10140
+271900,SawyerW,1990,1.0,0.0,Average,One story,Single-family,0,2,3,5055,14684
+107000,SawyerW,1966,1.0,0.0,Below Average,One story,Single-family,0,1,2,2496,8900
+200000,CollgCr,2003,1.0,0.0,Average,One story,Single-family,0,2,3,3926,9135
+140000,NAmes,1962,1.0,1.0,Average,One story,Single-family,0,1,3,2720,7763
+290000,Somerst,2006,1.0,1.0,Above Average,One story,Single-family,0,2,3,3820,10182
+189000,SawyerW,1992,1.0,0.0,Average,Two story,Single-family,1,2,3,3362,11218
+164000,Gilbert,1988,1.0,0.0,Above Average,One and a half story,Single-family,0,2,4,2803,12134
+113000,Edwards,1941,1.0,0.0,Below Average,One story,Single-family,0,1,2,1578,9340
+145000,Sawyer,1965,1.0,0.0,Below Average,Split Level,Single-family,0,0,0,1972,10246
+134500,NAmes,1962,1.0,0.0,Average,Split Foyer,Single-family,0,1,3,2224,10205
+125000,Sawyer,1966,1.0,0.0,Average,One story,Single-family,0,1,3,2172,7094
+112000,Sawyer,1978,1.0,0.0,Average,One and a half story,Duplex,0,2,4,2441,8930
+229456,Somerst,2009,0.0,0.0,Above Average,One story,Single-family,0,2,3,3166,8640
+80500,BrkSide,1947,0.0,0.0,Below Average,One and a half story,Single-family,0,1,2,912,6240
+91500,BrDale,1971,1.0,0.0,Average,Two story,Townhouse,1,1,3,1890,1680
+115000,NAmes,1964,1.0,1.0,Average,One story,Single-family,0,1,2,2112,7800
+134000,Sawyer,1968,1.0,1.0,Average,One story,Single-family,0,1,3,2485,8250
+143000,NAmes,1949,1.0,0.0,Average,One and a half story,Single-family,0,2,3,3201,10496
+137900,NAmes,1951,1.0,1.0,Average,One story,Single-family,0,2,4,4800,10680
+184000,Gilbert,2004,1.0,0.0,Average,Two story,Single-family,1,2,3,2666,15384
+145000,NAmes,1958,1.0,1.0,Average,Split Level,Single-family,0,1,3,1990,10482
+214000,Somerst,2007,1.0,0.0,Average,Two story,Single-family,1,2,4,3495,14598
+147000,NAmes,1965,1.0,1.0,Average,One story,Single-family,0,1,2,2400,8872
+367294,NridgHt,2008,1.0,0.0,Above Average,One story,Townhouse,1,1,1,4456,8769
+127000,NAmes,1960,1.0,1.0,Average,Split Level,Single-family,0,2,4,2986,7910
+190000,Sawyer,1977,1.0,0.0,Average,One and a half story,Duplex,2,2,4,4581,18890
+132500,NAmes,1962,1.0,0.0,Average,Split Level,Duplex,0,1,3,2836,7728
+101800,NAmes,1962,1.0,0.0,Below Average,One story,Duplex,0,2,2,1686,9842
+142000,NAmes,1959,0.0,0.0,Average,One story,Single-family,0,1,3,2907,12160
+130000,SWISU,1911,1.0,0.0,Average,Two story,Single-family,1,1,4,2904,8525
+138887,Crawfor,1914,1.0,0.0,Average,Two story,Single-family,1,1,4,2711,13132
+175500,NridgHt,2003,1.0,1.0,Average,Two story,Townhouse,1,2,2,2864,2628
+195000,CollgCr,2004,1.0,0.0,Average,Two story,Single-family,1,2,4,3229,12393
+142500,SawyerW,2005,1.0,1.0,Average,One story,Single-family,1,1,3,2766,13072
+265900,Timber,2006,1.0,0.0,Above Average,One story,Single-family,0,2,2,3432,9037
+224900,CollgCr,2003,1.0,0.0,Average,Two story,Single-family,1,2,3,3195,8158
+248328,Somerst,2007,1.0,1.0,Average,One story,Single-family,0,2,3,4332,9849
+170000,NWAmes,1974,1.0,1.0,Average,Split Foyer,Single-family,0,2,3,2754,10625
+465000,NridgHt,2006,1.0,1.0,Above Average,One story,Single-family,1,2,2,5002,13891
+230000,Crawfor,1929,1.0,1.0,Above Average,Two story,Single-family,0,1,3,2709,11435
+178000,NWAmes,1984,1.0,0.0,Average,Split Level,Single-family,1,3,3,2930,12090
+186500,Somerst,2005,1.0,0.0,Average,Two story,Single-family,1,2,3,2924,8125
+169900,Mitchel,1976,1.0,1.0,Average,Split Level,Single-family,0,1,3,2934,12328
+129500,OldTown,1917,1.0,0.0,Average,Two and a half story,Single-family,1,1,3,3189,9600
+119000,NAmes,1950,1.0,1.0,Average,One story,Single-family,0,1,3,2140,7200
+244000,NAmes,1968,1.0,1.0,Average,One story,Single-family,1,2,3,4742,11160
+171750,NridgHt,2003,1.0,0.0,Average,One story,Townhouse,0,2,2,3288,3136
+130000,Mitchel,1968,1.0,1.0,Average,One story,Single-family,0,1,3,2026,9858
+294000,Veenker,1974,1.0,1.0,Average,Two story,Single-family,1,2,3,3877,17542
+165400,Edwards,2003,1.0,1.0,Average,Two story,Single-family,1,2,3,2799,6931
+127500,BrkSide,1931,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2811,6240
+301500,NoRidge,1994,0.0,0.0,Above Average,One story,Single-family,0,2,2,4664,14303
+99900,Edwards,1922,1.0,0.0,Average,One story,Single-family,0,1,2,1728,4060
+190000,Gilbert,2005,1.0,0.0,Average,Split Level,Single-family,0,2,2,2422,9587
+151000,NAmes,1969,1.0,1.0,Average,One story,Single-family,1,1,3,2568,9750
+181000,Gilbert,1999,1.0,0.0,Average,Two story,Single-family,1,2,3,3018,24682
+128900,NAmes,1956,1.0,1.0,Average,One story,Single-family,0,1,2,2438,9600
+161500,ClearCr,1957,1.0,1.0,Below Average,One and a half story,Single-family,0,1,5,3196,11250
+180500,BrkSide,1919,1.0,0.0,Average,Two story,Single-family,0,1,3,3108,13515
+181000,NAmes,1998,1.0,0.0,Average,One story,Townhouse,0,2,2,3253,4060
+183900,Somerst,1999,1.0,1.0,Average,Two story,Townhouse,1,2,3,2649,3735
+122000,OldTown,1910,1.0,1.0,Average,Two and a half story,Two-family,1,1,4,3122,10120
+378500,Timber,2008,1.0,1.0,Above Average,One story,Single-family,0,2,3,4766,13214
+381000,Crawfor,1935,1.0,0.0,Above Average,One and a half story,Single-family,1,3,4,5189,14100
+144000,NAmes,1958,1.0,1.0,Average,One and a half story,Single-family,1,1,3,2713,11344
+260000,ClearCr,1979,1.0,1.0,Average,One story,Single-family,1,0,0,3442,23595
+185750,NWAmes,1968,1.0,0.0,Average,One story,Single-family,0,2,3,3440,9156
+137000,Sawyer,1965,1.0,1.0,Average,One story,Single-family,0,1,3,2158,13526
+177000,Edwards,1959,1.0,1.0,Average,Split Level,Single-family,0,1,2,2688,11512
+139000,Crawfor,1910,1.0,0.0,Average,One and a half story,Single-family,0,2,3,2463,5362
+137000,NAmes,1948,1.0,1.0,Average,Two story,Duplex,0,2,4,3248,11345
+162000,NWAmes,1972,1.0,1.0,Average,Two story,Single-family,1,1,3,2615,12936
+197900,NWAmes,1967,1.0,1.0,Average,Split Level,Single-family,1,1,3,3884,17871
+237000,CollgCr,2002,1.0,0.0,Above Average,Two story,Single-family,1,2,3,3736,9473
+68400,IDOTRR,1920,1.0,0.0,Below Average,One and a half story,Single-family,0,1,2,2354,7500
+227000,CollgCr,2002,1.0,1.0,Average,One story,Single-family,0,2,3,3690,9808
+180000,Timber,1990,1.0,0.0,Average,One story,Single-family,0,2,2,3132,8049
+150500,CollgCr,1977,0.0,0.0,Average,One story,Single-family,0,2,3,2564,8800
+139000,Mitchel,1971,1.0,1.0,Average,Two story,Duplex,2,2,4,2736,9400
+169000,SWISU,1919,1.0,1.0,Average,One and a half story,Single-family,0,2,4,3587,9638
+132500,BrkSide,1939,1.0,1.0,Average,One and a half story,Single-family,0,1,4,2472,6000
+143000,NWAmes,1963,1.0,0.0,Average,One story,Single-family,1,1,3,3184,9790
+190000,ClearCr,1964,1.0,1.0,Average,One story,Single-family,0,2,4,3596,36500
+278000,StoneBr,2000,1.0,1.0,Above Average,One story,Townhouse,0,2,2,3659,5664
+281000,NridgHt,2006,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3808,11065
+180500,NAmes,1964,1.0,0.0,Average,Split Level,Single-family,0,1,3,2788,14112
+119500,BrDale,1972,1.0,0.0,Average,Two story,Townhouse,1,2,3,2196,1680
+107500,OldTown,1892,1.0,1.0,Average,Two story,Single-family,0,2,4,3798,6600
+162900,NWAmes,1976,1.0,0.0,Average,Two story,Single-family,1,2,4,3024,10140
+115000,Edwards,1955,1.0,0.0,Average,One story,Single-family,0,1,2,2300,8172
+138500,NAmes,1968,1.0,0.0,Average,One story,Single-family,1,1,3,2392,8400
+155000,NAmes,1963,1.0,0.0,Average,One story,Single-family,0,2,3,2773,8700
+140000,Edwards,2005,1.0,1.0,Average,Split Foyer,Townhouse,0,2,2,2144,3675
+160000,Edwards,2008,1.0,0.0,Above Average,Two story,Single-family,1,2,3,13170,63887
+154000,NAmes,1959,1.0,1.0,Average,One story,Single-family,1,1,3,2797,7500
+225000,Gilbert,1999,1.0,1.0,Average,Two story,Single-family,1,2,3,3451,10762
+177500,Crawfor,1942,1.0,1.0,Average,Two story,Single-family,0,1,3,2478,7500
+290000,NoRidge,1994,1.0,0.0,Above Average,Two story,Single-family,1,2,4,4535,10120
+232000,Somerst,2005,1.0,0.0,Average,One story,Single-family,0,2,3,4066,8688
+130000,Edwards,2004,1.0,1.0,Average,Two story,Townhouse,0,2,3,3064,3363
+325000,NridgHt,2006,1.0,1.0,Above Average,One story,Single-family,0,2,2,4144,13173
+202500,NridgHt,2005,1.0,0.0,Average,One story,Townhouse,0,2,2,3210,6955
+138000,CollgCr,1994,1.0,0.0,Average,One story,Single-family,0,1,3,2460,8072
+147000,OldTown,1948,1.0,0.0,Average,One story,Single-family,0,1,2,2574,12000
+179200,SawyerW,1991,1.0,1.0,Average,One story,Single-family,0,2,3,3068,7153
+335000,Crawfor,1959,1.0,0.0,Average,One story,Single-family,0,2,3,4371,17500
+203000,CollgCr,2005,1.0,1.0,Average,One story,Single-family,0,2,3,3056,8814
+302000,NoRidge,1990,1.0,1.0,Above Average,Two story,Single-family,1,2,4,5013,9572
+333168,NoRidge,1999,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4771,14774
+119000,Edwards,1954,1.0,1.0,Below Average,One story,Single-family,0,1,3,2176,8190
+206900,NAmes,1969,1.0,1.0,Average,Two story,Single-family,1,2,4,3640,11075
+295493,CollgCr,2008,1.0,1.0,Above Average,One story,Single-family,0,2,3,4112,10226
+208900,Somerst,2006,1.0,1.0,Average,One story,Townhouse,0,2,2,3170,4230
+275000,CollgCr,2001,1.0,0.0,Above Average,One story,Single-family,0,2,3,4288,14781
+111000,Edwards,1954,1.0,1.0,Below Average,One story,Single-family,0,1,3,2060,10215
+156500,NAmes,1957,1.0,0.0,Average,One story,Single-family,1,1,3,3398,8400
+72500,BrkSide,1949,1.0,1.0,Below Average,One story,Single-family,0,1,2,1007,6627
+190000,NoRidge,1992,0.0,0.0,Average,Two story,Single-family,1,2,3,3237,10186
+82500,BrkSide,1940,1.0,1.0,Below Average,One story,Single-family,0,1,2,1128,5330
+147000,Somerst,2006,0.0,0.0,Above Average,One story,Single-family,0,2,2,4485,9986
+55000,IDOTRR,1922,0.0,0.0,Below Average,One story,Single-family,0,1,2,1592,3636
+79000,Edwards,1931,1.0,1.0,Below Average,One story,Single-family,0,1,3,1318,4270
+130500,Mitchel,1982,1.0,1.0,Average,One story,Single-family,0,1,3,1896,6600
+256000,OldTown,1920,1.0,1.0,Average,One and a half story,Single-family,0,2,5,4822,10440
+176500,Gilbert,1998,1.0,1.0,Average,Two story,Single-family,1,2,3,3029,9084
+227000,Somerst,2006,1.0,0.0,Above Average,One story,Single-family,0,2,3,4001,10000
+132500,CollgCr,1976,1.0,1.0,Average,Split Level,Single-family,0,1,3,2441,10780
+100000,Edwards,1938,1.0,0.0,Below Average,One story,Single-family,0,1,2,1920,8877
+125500,IDOTRR,1938,1.0,0.0,Average,One and a half story,Single-family,1,1,2,2460,7200
+125000,BrDale,1970,1.0,1.0,Average,Two story,Townhouse,1,1,3,2570,2368
+167900,NWAmes,1977,1.0,0.0,Average,One story,Single-family,0,2,2,3314,9650
+135000,NWAmes,1973,0.0,0.0,Average,One story,Duplex,0,2,4,3818,9246
+52500,OldTown,1941,1.0,0.0,Below Average,One story,Single-family,0,1,2,1386,4118
+200000,CollgCr,2002,1.0,0.0,Average,Two story,Single-family,1,2,3,3269,13450
+128500,CollgCr,1972,1.0,0.0,Average,One story,Single-family,0,1,3,2016,9560
+123000,NAmes,1971,1.0,0.0,Below Average,One story,Single-family,0,1,3,2210,8294
+155000,SawyerW,2003,1.0,1.0,Average,One story,Single-family,0,1,3,2804,13695
+228500,CollgCr,2002,1.0,1.0,Above Average,Two story,Single-family,1,2,3,4100,9375
+177000,Crawfor,1928,1.0,1.0,Average,One and a half story,Single-family,1,1,3,3151,7558
+155835,CollgCr,2006,1.0,0.0,Average,Two story,Single-family,1,2,3,2624,11103
+108500,OldTown,1920,1.0,1.0,Below Average,One story,Single-family,0,1,2,2228,6000
+262500,NWAmes,1968,1.0,1.0,Average,One story,Single-family,0,2,3,4232,20781
+283463,Timber,2006,1.0,1.0,Above Average,One story,Single-family,0,2,3,4220,15306
+215000,SawyerW,1998,0.0,0.0,Average,One story,Single-family,0,2,3,3490,16196
+122000,OldTown,1872,1.0,0.0,Above Average,Two story,Single-family,0,2,4,2837,5250
+200000,NAmes,1969,1.0,1.0,Average,Two story,Duplex,2,2,6,4850,11643
+171000,NAmes,1962,1.0,0.0,Average,Two story,Single-family,1,1,4,3064,9247
+134900,BrkSide,1937,1.0,1.0,Average,One and a half story,Single-family,0,1,2,2498,6000
+410000,NoRidge,1995,1.0,1.0,Above Average,One and a half story,Single-family,1,2,4,5937,14720
+235000,CollgCr,2000,1.0,1.0,Average,Two story,Single-family,1,2,3,3696,10316
+170000,NWAmes,1968,1.0,0.0,Average,Split Level,Single-family,0,3,4,2977,10192
+110000,NAmes,1966,1.0,1.0,Average,One story,Single-family,0,1,3,2020,9477
+149900,NAmes,1971,1.0,0.0,Average,One story,Single-family,1,1,3,2656,12537
+177500,Somerst,2000,1.0,1.0,Average,Two story,Townhouse,1,2,3,2769,2117
+315000,NridgHt,2004,1.0,0.0,Above Average,One story,Single-family,0,2,3,4730,16737
+189000,SWISU,1921,1.0,1.0,Average,Two story,Single-family,1,3,4,3834,9842
+260000,StoneBr,2005,1.0,1.0,Average,One story,Single-family,0,2,3,3490,16158
+104900,NAmes,1920,1.0,1.0,Below Average,One and a half story,Single-family,0,2,4,2821,12513
+156932,Gilbert,2006,1.0,0.0,Average,Two story,Single-family,1,2,3,2460,8499
+144152,Somerst,2005,1.0,0.0,Average,Two story,Townhouse,1,2,2,2200,3180
+216000,Somerst,2000,1.0,0.0,Average,Two story,Single-family,1,2,3,3151,7500
+193000,CollgCr,1999,1.0,1.0,Average,Two story,Single-family,1,2,3,3251,9179
+127000,MeadowV,1977,1.0,0.0,Average,Two story,Townhouse,0,2,4,2568,2665
+144000,CollgCr,2003,1.0,1.0,Average,One story,Townhouse,0,1,1,2116,4435
+232000,CollgCr,2003,1.0,0.0,Above Average,One story,Single-family,0,2,3,3827,10635
+105000,OldTown,1920,1.0,1.0,Below Average,One and a half story,Single-family,0,1,2,2552,5400
+165500,NAmes,1955,1.0,1.0,Average,Split Level,Single-family,0,1,3,3030,9600
+274300,CollgCr,1998,1.0,1.0,Average,Two story,Single-family,1,2,3,3788,9750
+466500,NoRidge,2001,1.0,1.0,Above Average,One story,Single-family,1,2,2,6070,11400
+250000,Somerst,2005,1.0,1.0,Average,Two story,Single-family,1,2,3,3920,10625
+239000,Timber,2007,1.0,0.0,Above Average,One story,Single-family,0,2,3,3864,10991
+91000,SWISU,1930,1.0,0.0,Average,One story,Single-family,0,1,2,1718,6292
+117000,Edwards,1941,1.0,0.0,Average,One and a half story,Single-family,0,2,3,3248,10998
+83000,BrDale,1973,1.0,0.0,Average,Two story,Townhouse,1,1,2,1734,1953
+167500,Timber,2006,1.0,0.0,Average,Split Level,Single-family,1,2,3,2178,9735
+58500,Edwards,1914,1.0,1.0,Below Average,One story,Single-family,0,1,2,1928,8212
+237500,NAmes,1970,1.0,0.0,Average,One story,Single-family,1,2,4,3872,12925
+157000,OldTown,1920,1.0,0.0,Average,Two story,Single-family,1,1,4,2934,7200
+112000,Sawyer,1918,1.0,0.0,Average,One story,Single-family,0,2,3,2808,25339
+105000,Edwards,1939,1.0,0.0,Average,One and a half story,Single-family,0,1,2,2098,9060
+125500,IDOTRR,1922,1.0,1.0,Below Average,One and a half story,Single-family,0,1,3,2190,5436
+250000,NWAmes,1978,1.0,1.0,Average,Two story,Single-family,1,3,5,4740,16692
+136000,OldTown,1916,1.0,1.0,Average,One and a half story,Single-family,0,2,5,3456,8520
+377500,Gilbert,2006,1.0,1.0,Above Average,One story,Single-family,0,2,3,4250,14892
+131000,BrkSide,1941,1.0,0.0,Average,One and a half story,Single-family,0,1,3,2393,6000
+235000,CollgCr,2000,1.0,0.0,Average,One story,Single-family,0,2,3,3591,9100
+124000,NAmes,1967,1.0,1.0,Average,One story,Duplex,0,2,4,3960,8944
+123000,NAmes,1967,1.0,1.0,Average,Split Foyer,Single-family,0,1,3,2052,7838
+163000,OldTown,1905,1.0,1.0,Average,One and a half story,Two-family,0,2,3,3066,10800
+246578,Blmngtn,2006,1.0,1.0,Average,One story,Townhouse,0,2,2,3504,4045
+281213,Timber,2005,1.0,1.0,Above Average,Two story,Single-family,1,2,4,4218,12665
+160000,Timber,1948,1.0,0.0,Average,One story,Single-family,0,1,3,3006,57200
+137500,BrkSide,1920,1.0,0.0,Average,Two story,Single-family,1,1,4,2632,6120
+138000,NAmes,1950,1.0,1.0,Average,One and a half story,Single-family,1,1,3,3352,7200
+137450,SWISU,1925,1.0,1.0,Average,One and a half story,Single-family,1,2,3,2800,6171
+120000,BrkSide,1929,1.0,1.0,Average,One and a half story,Single-family,0,1,3,2228,6000
+193000,Gilbert,2004,1.0,1.0,Average,Two story,Single-family,1,2,3,2830,7415
+193879,CollgCr,2006,1.0,0.0,Average,One story,Single-family,0,2,2,3242,6762
+282922,Somerst,2007,1.0,0.0,Above Average,One story,Single-family,0,2,3,3703,15256
+105000,OldTown,1915,1.0,1.0,Below Average,One and a half story,Single-family,0,1,3,2822,10410
+275000,Crawfor,2004,1.0,0.0,Above Average,One story,Townhouse,0,2,2,3722,3842
+133000,CollgCr,1972,0.0,0.0,Average,Split Foyer,Single-family,0,1,2,1932,8445
+112000,Mitchel,1985,1.0,0.0,Average,One story,Single-family,0,1,3,1666,8780
+125500,OldTown,1910,1.0,1.0,Below Average,Two story,Single-family,0,1,3,2513,7740
+215000,NWAmes,1986,1.0,0.0,Average,Two story,Single-family,1,2,3,3426,20544
+230000,CollgCr,2001,1.0,0.0,Average,Two story,Single-family,1,2,3,3406,12420
+140000,NAmes,1950,1.0,0.0,Average,One and a half story,Single-family,1,1,3,2795,9600
+90000,NAmes,1949,1.0,1.0,Below Average,One story,Duplex,0,2,2,1460,7200
+257000,SawyerW,2005,1.0,1.0,Above Average,One story,Single-family,0,2,2,4308,10994
+207000,BrkSide,1923,1.0,1.0,Average,One and a half story,Single-family,1,1,4,3051,13053
+175900,Blmngtn,2007,1.0,0.0,Average,One story,Townhouse,0,2,1,3615,3635
+122500,OldTown,1885,1.0,1.0,Below Average,Two story,Two-family,0,2,4,3627,11340
+340000,NoRidge,1998,1.0,0.0,Above Average,Two story,Single-family,1,2,3,4803,16545
+124000,NAmes,1963,1.0,1.0,Average,One story,Single-family,1,1,3,2624,9204
+223000,Crawfor,1969,1.0,1.0,Average,One story,Single-family,0,2,3,4228,16381
+179900,NWAmes,1968,1.0,1.0,Average,Two story,Single-family,1,2,3,2900,11700
+127500,NPkVill,1977,1.0,0.0,Average,One story,Townhouse,0,2,2,2578,4043
+136500,CollgCr,2003,1.0,1.0,Average,One story,Townhouse,0,1,1,2116,4435
+274970,Edwards,1966,1.0,1.0,Average,Split Level,Single-family,0,2,4,3330,19690
+144000,NAmes,1958,1.0,0.0,Average,One story,Single-family,0,1,2,2852,9503
+142000,NAmes,1959,1.0,1.0,Average,One story,Single-family,0,1,3,3032,10721
+271000,NoRidge,1994,1.0,1.0,Average,Two story,Single-family,1,2,3,3875,10944
+140000,NAmes,1945,1.0,1.0,Average,One and a half story,Single-family,1,1,3,2759,10930
+119000,OldTown,1940,1.0,1.0,Average,One story,Single-family,0,1,2,1832,7200
+182900,NWAmes,1981,1.0,1.0,Average,One story,Single-family,0,2,3,3347,12546
+192140,Gilbert,2005,1.0,0.0,Average,Two story,Single-family,1,2,4,2942,21930
+143750,NPkVill,1976,1.0,0.0,Average,One story,Townhouse,0,2,2,2356,4928
+64500,OldTown,1927,1.0,1.0,Below Average,One story,Single-family,0,2,4,1840,10800
+186500,Gilbert,2000,1.0,1.0,Average,Two story,Single-family,1,2,3,3179,10261
+160000,Mitchel,1977,1.0,1.0,Average,One story,Single-family,0,2,3,2736,17400
+174000,NAmes,1962,1.0,0.0,Average,One story,Single-family,1,1,3,3318,8400
+120500,NAmes,1971,1.0,1.0,Below Average,One story,Single-family,0,1,3,2256,9000
+394617,NridgHt,2008,1.0,0.0,Above Average,One story,Single-family,0,2,2,4638,12444
+149700,OldTown,1957,1.0,1.0,Average,One story,Single-family,0,1,2,3071,7407
+197000,NWAmes,1979,1.0,1.0,Average,Split Level,Single-family,1,2,3,2814,11584
+191000,Crawfor,1922,1.0,1.0,Average,Two and a half story,Single-family,0,2,3,3431,11526
+149300,CollgCr,2004,1.0,1.0,Average,One story,Townhouse,0,1,1,2116,4426
+310000,Somerst,2008,1.0,1.0,Above Average,Two story,Single-family,1,2,3,3836,11003
+121000,BrkSide,1916,1.0,0.0,Average,One and a half story,Single-family,0,1,2,2096,8854
+179600,CollgCr,2004,1.0,0.0,Average,One story,Single-family,0,2,3,3470,8500
+129000,Sawyer,1966,1.0,0.0,Average,Split Foyer,Single-family,0,1,3,1967,8400
+157900,Mitchel,1962,1.0,1.0,Average,One story,Single-family,0,1,3,2688,26142
+240000,CollgCr,1995,1.0,0.0,Above Average,Two story,Single-family,1,2,3,3866,10000
+112000,Edwards,1910,0.0,0.0,Below Average,Two story,Single-family,1,1,2,2290,11767
+92000,MeadowV,1970,0.0,0.0,Average,Split Foyer,Townhouse,0,1,1,1260,1533
+136000,NAmes,1974,1.0,1.0,Average,Two story,Duplex,2,2,4,2688,9000
+287090,Somerst,2008,1.0,0.0,Above Average,One story,Single-family,0,2,3,3991,9262
+145000,Edwards,2005,0.0,0.0,Average,Split Level,Townhouse,0,1,2,2144,3675
+84500,Mitchel,2006,1.0,0.0,Average,One story,Single-family,0,1,3,2280,17217
+185000,Somerst,2004,1.0,1.0,Average,One story,Single-family,0,2,2,2842,7500
+175000,Gilbert,1999,1.0,1.0,Average,Two story,Single-family,1,2,3,3060,7917
+210000,NWAmes,1978,1.0,1.0,Average,One story,Single-family,0,2,3,4115,13175
+266500,Crawfor,1941,1.0,0.0,Average,Two story,Single-family,0,2,4,3744,9042
+142125,NAmes,1950,1.0,0.0,Average,One story,Single-family,0,1,2,2396,9717
+147500,Edwards,1965,,,Average,One story,Single-family,1,1,3,2788,9937
