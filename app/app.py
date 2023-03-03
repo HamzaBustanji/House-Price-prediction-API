@@ -7,9 +7,9 @@ import streamlit
 
 st.title('House Price Prediction App for the Ames Housing Dataset')
 
-#model = dill.load(open('House-Price-prediction-API/app/rf.pkl', 'rb'))
+model = dill.load(open('/rf.pkl', 'rb'))
 
-scaler = dill.load(open('House-Price-prediction-API/app/scaler.pkl', 'rb'))
+scaler = dill.load(open('/scaler.pkl', 'rb'))
 
 
 
