@@ -3,6 +3,7 @@ import dill
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
+import streamlit 
 
 st.title('House Price Prediction App for the Ames Housing Dataset')
 
@@ -281,5 +282,3 @@ if ok:
     X_scaled = scaler.transform(X)
     prediction = model.predict(X_scaled)
     st.subheader(f"The house price is predicted to be ${prediction[0]:.0f}")
-
- 
