@@ -8,8 +8,8 @@ import os
 
 st.title('House Price Prediction App for the Ames Housing Dataset')
 
-rel_path_model = os.path.relpath('/Users/hamzaalbustanji/Documents/GitHub/House-Price-prediction-API/app/rf.pkl', start = os.curdir)
-rel_path_scaler = os.path.relpath('/Users/hamzaalbustanji/Documents/GitHub/House-Price-prediction-API/app/scaler.pkl', start = os.curdir)
+rel_path_model = os.path.relpath('/Users/hamzaalbustanji/Documents/GitHub/House-Price-prediction-API/app/rf.pkl', start = '/Users/hamzaalbustanji/Documents/GitHub/House-Price-prediction-API/')
+rel_path_scaler = os.path.relpath('/Users/hamzaalbustanji/Documents/GitHub/House-Price-prediction-API/app/scaler.pkl', start = '/Users/hamzaalbustanji/Documents/GitHub/House-Price-prediction-API/')
 model = dill.load(open(rel_path_model, 'rb'))
 
 scaler = dill.load(open(rel_path_scaler, 'rb'))
