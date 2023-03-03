@@ -4,12 +4,15 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
 import streamlit 
+import os 
 
 st.title('House Price Prediction App for the Ames Housing Dataset')
 
-model = dill.load(open('model/rf.pkl', 'rb'))
+rel_path_model = os.path.relpath('/Users/hamzaalbustanji/Documents/GitHub/House-Price-prediction-API/app/rf.pkl', start = os.curdir)
+rel_path_scaler = os.path.relpath('/Users/hamzaalbustanji/Documents/GitHub/House-Price-prediction-API/app/scaler.pkl', start = os.curdir)
+model = dill.load(open(rel_path_model, 'rb'))
 
-scaler = dill.load(open('model/scaler.pkl', 'rb'))
+scaler = dill.load(open(rel_path_scaler, 'rb'))
 
 
 
