@@ -272,7 +272,28 @@ else:
 
 ok = st.button('Calculate House Price')
 if ok:
-    X = np.array(X)
+    X.columns = ['YearBuilt', 'Fireplaces', 'HalfBath', 'FullBath', 'Bedrooms',
+       'HouseArea', 'LotArea', 'GarageCars', 'MasVnrArea', 'YearRemodAdd',
+       'Neighborhood_Blueste', 'Neighborhood_BrDale', 'Neighborhood_BrkSide',
+       'Neighborhood_ClearCr', 'Neighborhood_CollgCr', 'Neighborhood_Crawfor',
+       'Neighborhood_Edwards', 'Neighborhood_Gilbert', 'Neighborhood_IDOTRR',
+       'Neighborhood_MeadowV', 'Neighborhood_Mitchel', 'Neighborhood_NAmes',
+       'Neighborhood_NPkVill', 'Neighborhood_NWAmes', 'Neighborhood_NoRidge',
+       'Neighborhood_NridgHt', 'Neighborhood_OldTown', 'Neighborhood_SWISU',
+       'Neighborhood_Sawyer', 'Neighborhood_SawyerW', 'Neighborhood_Somerst',
+       'Neighborhood_StoneBr', 'Neighborhood_Timber', 'Neighborhood_Veenker',
+       'Condition_Average', 'Condition_Below Average', 'Condition_Excellent',
+       'Condition_Fair', 'Condition_Good', 'Condition_Poor',
+       'Condition_Very Excellent', 'Condition_Very Good',
+       'Condition_very poor', 'HouseStyle_One story', 'HouseStyle_Split Foyer',
+       'HouseStyle_Split Level', 'HouseStyle_Two and a half story',
+       'HouseStyle_Two story', 'BuildingType_Single-family',
+       'BuildingType_Townhouse', 'BuildingType_Two-family',
+       'Exterior1st_AsphShn', 'Exterior1st_BrkComm', 'Exterior1st_BrkFace',
+       'Exterior1st_CBlock', 'Exterior1st_CemntBd', 'Exterior1st_HdBoard',
+       'Exterior1st_ImStucc', 'Exterior1st_MetalSd', 'Exterior1st_Plywood',
+       'Exterior1st_Stone', 'Exterior1st_Stucco', 'Exterior1st_VinylSd',
+       'Exterior1st_Wd Sdng', 'Exterior1st_WdShing']
     X_scaled = scaler.transform(X)
     prediction = model.predict(X_scaled)
     st.subheader(f"The house price is predicted to be ${prediction[0]:.0f}")
