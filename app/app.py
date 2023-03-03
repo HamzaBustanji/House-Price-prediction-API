@@ -1,5 +1,5 @@
 import streamlit as st
-import dill
+import pickle
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
@@ -8,12 +8,12 @@ st.title('House Price Prediction App for the Ames Housing Dataset')
 
 def load_model():
     with open('../app/rf.pkl', 'rb') as f:
-        model = dill.load(f)
+        model = pickle.load(f)
     return model
 
 def load_scaler():
     with open('../app/scaler.pkl', 'rb') as f:
-        scaler = dill.load(f)
+        scaler = pickle.load(f)
     return scaler
 
 model = load_model()
