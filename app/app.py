@@ -7,18 +7,15 @@ import streamlit
 
 st.title('House Price Prediction App for the Ames Housing Dataset')
 
-def load_model():
-    with open('//Users//hamzaalbustanji//Documents//GitHub//House-Price-prediction-API//app//rf.pkl', 'rb') as f:
-        model = dill.load(f)
-    return model
 
-def load_scaler():
-    with open('//Users//hamzaalbustanji//Documents//GitHub/House-Price-prediction-API//app//scaler.pkl', 'rb') as f:
-        scaler = dill.load(f)
-    return scaler
+with open('//Users//hamzaalbustanji//Documents//GitHub//House-Price-prediction-API//app//rf.pkl', 'rb') as f:
+    model = dill.load(f)
+    
 
-model = load_model()
-scaler = load_scaler()
+
+with open('//Users//hamzaalbustanji//Documents//GitHub/House-Price-prediction-API//app//scaler.pkl', 'rb') as f:
+    scaler = dill.load(f)
+    
 
 
 
