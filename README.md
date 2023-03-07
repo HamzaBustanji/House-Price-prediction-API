@@ -50,5 +50,10 @@ We explored relationships between feature and engineered new features that might
 | YearRemodAdd | Remodel date |
 
 ## Preprocessing and modeling
+[**The completed notebook is availabe here**](https://github.com/HamzaBustanji/House-Price-prediction-App/blob/main/notebooks/3-pre-processing-and-4-modeling.ipynb)
 ### Preprocessing
 In the preprocessing step, we loaded our data, created a train/test split, and scaled the predictive features using a standard scaler. The scaler was fit on the training set to avoid data leakage. We also saved the same scaler to be used in our app.
+### Modeling
+#### Linear models
+##### Linear Regression
+
