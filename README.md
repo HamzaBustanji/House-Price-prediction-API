@@ -1,6 +1,6 @@
 <img src="https://github.com/HamzaBustanji/House-Price-prediction-App/blob/main/images/header.jpg"  width='60%' height='60%' align="middle">
 
-# House-Price-prediction-App
+# [Click here to view the app](https://hamzabustanji-house-price-prediction-api-appapp-b89nuy.streamlit.app/)
 
 ## 1.Data
 The Data was provided in this [Kaggle compitition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data). 
