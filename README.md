@@ -61,5 +61,14 @@ We explored relationships between feature and engineered new features that might
 In the preprocessing step, we loaded our data, created a train/test split, and scaled the predictive features using a standard scaler. The scaler was fit on the training set to avoid data leakage. We also saved the same scaler to be used in our app.
 ### Modeling
 #### Linear models
-##### Linear Regression
+We trained three linear models; a Linear Regression model, a Polynomial model, and an Elastic Net model. Of which only the Elastic Net model performed relatively well.
+#### Support Vector Regression 
+The Support Vector Regression model performed similarly to the Elastic Net model. 
+#### Random Forrest Regression
+The best performing model was the Random Forrest model. Based on our evaluation metrics, we chose to move forward with it. 
+#### Evaluation Metrics
+<img src="https://github.com/HamzaBustanji/House-Price-prediction-App/blob/main/images/model%20scores.png"  width='60%' height='60%' align="middle">
 
+## 6.App
+[The code and all related files to tha app are available here](https://github.com/HamzaBustanji/House-Price-prediction-App/tree/main/app)
+We developed the app using the Streamlit open source python framework. Streamlit allowed us to create the app and deploy it online for free. 
