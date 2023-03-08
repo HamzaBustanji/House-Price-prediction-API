@@ -17,7 +17,7 @@ build the model, this will be an act of balancing accessibility and accuracy.
 In this notebook we started by exploring our dataset. We displayed the Dataframe and explored the data types of each column. Then we consulted the data descriptions to get a better understanding of each feature and what it stands for, and we displayed a brief description of each feature. 
 ### Exploring missing values
 Next, we explored the missing values in our data, and the five columns with the most missing values were as follows: 
-<img src="https://github.com/HamzaBustanji/House-Price-prediction-App/blob/main/images/Screen%20Shot%202023-03-07%20at%2010.58.49%20AM.png"  width='60%' height='60%' align="middle">
+<img src="https://github.com/HamzaBustanji/House-Price-prediction-App/blob/main/images/missing%20features.png"  width='60%' height='60%' align="middle">
 
 Then, we displayed the number of unique values per column. This gave us insight into the categorical features we were dealing with. 
 After displaying the unique values per column,  we began to deal with the missing values in our data. For a full view of our methodology in dealing with missing data, please refer to the completed notebook.
@@ -30,7 +30,7 @@ We used a for loop to produce a bar plot for each of our categorical features, w
 ### Numeric features
 For our numeric features, we produced summary statistics, histogram plots, and most importantly a heatmap that displayed the correlation between the features:
 
-<img src="https://github.com/HamzaBustanji/House-Price-prediction-App/blob/main/images/Screen%20Shot%202023-03-07%20at%2011.18.07%20AM.png"  width='60%' height='60%' align="middle">
+<img src="https://github.com/HamzaBustanji/House-Price-prediction-App/blob/main/images/heat%20map.png"  width='60%' height='60%' align="middle">
 
 ### Fianl DataFrame
 
@@ -71,4 +71,5 @@ The best performing model was the Random Forrest model. Based on our evaluation 
 
 ## 6.App
 [The code and all related files to tha app are available here](https://github.com/HamzaBustanji/House-Price-prediction-App/tree/main/app)
+
 We developed the app using the Streamlit open source python framework. Streamlit allowed us to create the app and deploy it online for free. 
