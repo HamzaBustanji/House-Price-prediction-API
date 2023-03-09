@@ -72,4 +72,5 @@ The best performing model was the Random Forrest model. Based on our evaluation 
 ## 6.App
 [The code and all related files to tha app are available here](https://github.com/HamzaBustanji/House-Price-prediction-App/tree/main/app)
 
-We developed the app using the Streamlit open source python framework. Streamlit allowed us to create the app and deploy it online for free. 
+We developed the app using the Streamlit open source python framework. Streamlit allowed us to create the app and deploy it online for free.
+for a detailed look into Streamlit, check out the [Streamlit launch blog post.](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
